@@ -1,0 +1,39 @@
+
+name: covid19-india
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.7
+  - pandas=1.0
+  - pip
+  # Core scientific python
+  - numpy
+  - matplotlib
+  - pyqt
+  - seaborn
+  - tqdm
+  - plotly>=4.4.1
+  - tabula-py
+  - elasticsearch
+
+  #- geopandas
+  - contextily
+  - earthpy
+  - folium
+  - geojson
+  - mapboxgl
+  - hydrofunctions
+  - geocoder
+  - tweepy
+
+    # Jupyter Environment
+  - papermill
+  - autopep8
+  - jupyterlab
+  - notebook 
+  - ipython
+  - jupyter_contrib_nbextensions
+  - nbclean

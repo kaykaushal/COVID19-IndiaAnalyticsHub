@@ -1,0 +1,1053 @@
+,id,government_id,diagnosed_date,age,gender,detected_city,detected_district,detected_state,current_status,notes,contracted,nationality,status_change_date
+0,1.0,KL-TS-P1,2020-01-30,20.0,Female,Thrissur,Thrissur,Kerala,Recovered,Travelled from Wuhan,Not Available,India,2020-02-14
+1,2.0,KL-AL-P1,2020-02-02,-1.0,Not Available,Alappuzha,Alappuzha,Kerala,Recovered,Travelled from Wuhan,Not Available,India,2020-02-14
+2,3.0,KL-KS-P1,2020-03-02,-1.0,Not Available,Kasaragod,Kasaragod,Kerala,Recovered,Travelled from Wuhan,Not Available,India,2020-02-14
+3,4.0,DL-P1,2020-02-03,45.0,Male,East Delhi (Mayur Vihar),East Delhi,Delhi,Recovered,"Travelled from Austria, Italy",Not Available,India,2020-03-15
+4,5.0,TS-P1,2020-02-03,24.0,Male,Hyderabad,Hyderabad,Telangana,Recovered,no notest,Not Available,India,2020-02-03
+5,6.0,Not Available,2020-03-03,69.0,Male,Jaipur,Jaipur,Rajasthan,Recovered,Travelled from Italy,Not Available,Italy,2020-03-03
+6,7.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+7,8.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+8,9.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+9,10.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+10,11.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+11,12.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+12,13.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+13,14.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+14,15.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+15,16.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+16,17.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+17,18.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+18,19.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+19,20.0,Not Available,2020-04-03,55.0,Not Available,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Italy,P6,Italy,2020-04-03
+20,21.0,Not Available,2020-04-03,70.0,Female,Jaipur,Jaipur,Rajasthan,Recovered,"Travelled from Italy, Wife of P6",P6,Italy,2020-04-03
+21,22.0,Not Available,2020-04-03,-1.0,Not Available,Agra,Agra,Uttar Pradesh,Hospitalized,Family members of P4,P4,India,2020-04-03
+22,23.0,Not Available,2020-04-03,-1.0,Not Available,Agra,Agra,Uttar Pradesh,Hospitalized,Family members of P4,P4,India,2020-04-03
+23,24.0,Not Available,2020-04-03,-1.0,Not Available,Agra,Agra,Uttar Pradesh,Hospitalized,Family members of P4,P4,India,2020-04-03
+24,25.0,Not Available,2020-04-03,-1.0,Not Available,Agra,Agra,Uttar Pradesh,Hospitalized,Family members of P4,P4,India,2020-04-03
+25,26.0,Not Available,2020-04-03,-1.0,Not Available,Agra,Agra,Uttar Pradesh,Hospitalized,Family members of P4,P4,India,2020-04-03
+26,27.0,Not Available,2020-04-03,-1.0,Not Available,Agra,Agra,Uttar Pradesh,Hospitalized,Family members of P4,P4,India,2020-04-03
+27,28.0,Not Available,2020-04-03,-1.0,Not Available,Not Available,Not Available,Uttar Pradesh,Hospitalized,"Accompanied the Italian tourists, Nationality: Indian",P6,India,2020-04-03
+28,29.0,DL-P2,2020-05-03,27.0,Male,Janakpuri,South West Delhi,Delhi,Hospitalized,"Travelled from Italy PayTm Emp, ",Not Available,India,2020-05-03
+29,30.0,Not Available,2020-05-03,59.0,Male,Ghaziabad,Ghaziabad,Uttar Pradesh,Recovered,Travelled from Iran,Not Available,India,2020-05-03
+30,31.0,DL-P3,2020-06-03,-1.0,Not Available,Uttam Nagar,West Delhi,Delhi,Recovered,Travelled from Thailand and Malaysia,Not Available,India,2020-03-15
+31,32.0,Not Available,2020-07-03,65.0,Male,Ladakh,Leh,Ladakh,Hospitalized,Travelled from Iran,Not Available,India,2020-07-03
+32,33.0,Not Available,2020-07-03,75.0,Male,Ladakh,Leh,Ladakh,Hospitalized,no notest,Not Available,India,2020-07-03
+33,34.0,TN-P1,2020-07-03,45.0,Male,Kancheepuram,Kancheepuram,Tamil Nadu,Recovered,Travelled from Oman to Chennai Airport on 28.02.2020,Not Available,India,2020-07-03
+34,35.0,KL-PT-P1,2020-08-03,24.0,Male,Ranni,Pathanamthitta,Kerala,Hospitalized,Travelled from Italy on 29/02/2020 through Doha,Not Available,India,2020-08-03
+35,36.0,KL-PT-P1,2020-08-03,54.0,Male,Ranni,Pathanamthitta,Kerala,Hospitalized,Travelled from Italy on 29/02/2020 through Doha,P35,India,2020-08-03
+36,37.0,KL-P1-P1,2020-08-03,53.0,Female,Ranni,Pathanamthitta,Kerala,Hospitalized,Travelled from Italy on 29/02/2020 through Doha,P35,India,2020-08-03
+37,38.0,KL-PT-P2,2020-08-03,65.0,Male,Ranni,Pathanamthitta,Kerala,Hospitalized,Relative and neighbour of P35-P37,P35,India,2020-08-03
+38,39.0,KL-PT-P2,2020-08-03,61.0,Female,Ranni,Pathanamthitta,Kerala,Hospitalized,Relative  and neighbour of P35-P37,P35,India,2020-08-03
+39,40.0,DL-P4,2020-09-03,25.0,Female,Tri Nagar,Delhi,Delhi,Hospitalized,No travel history,P29,India,2020-09-03
+40,41.0,Not Available,2020-09-03,63.0,Female,Jammu,Not Available,Jammu and Kashmir,Hospitalized,Travelled from Iran,Not Available,India,2020-09-03
+41,42.0,KA-P1,2020-09-03,-1.0,Male,Bengaluru,Bengaluru,Karnataka,Recovered,"Travelled from US via London, Mindtree Employee",Not Available,India,2020-03-27
+42,43.0,KL-KN-1,2020-09-03,3.0,Male,Kannur,Kannur,Kerala,Recovered,Travelled from Italy on 07/03/2020 (Parents in isolation),Not Available,India,2020-09-03
+43,44.0,Not Available,2020-09-03,-1.0,Male,Pune,Pune,Maharashtra,Recovered,"Travelled from Dubai on 1 March, Husband of P45",Not Available,India,2020-03-25
+44,45.0,Not Available,2020-09-03,-1.0,Female,Pune,Pune,Maharashtra,Recovered,"Travelled from Dubai on 1 March, Wife of P44",Not Available,India,2020-03-25
+45,46.0,PJ-P1,2020-09-03,-1.0,Male,Amritsar,Amritsar,Punjab,Hospitalized,Travelled from Italy,Not Available,Italy,2020-09-03
+46,47.0,Not Available,2020-09-03,48.0,Male,Agra,Agra,Uttar Pradesh,Recovered,Factory Manager contact with businessman from Italy,P4,India,2020-09-03
+47,48.0,Not Available,2020-09-03,-1.0,Not Available,Agra,Agra,Uttar Pradesh,Hospitalized,Was in contact with P22-P27,P22,India,2020-09-03
+48,49.0,KL-PT-P3,2020-10-03,-1.0,Not Available,Kozhencherry,Pathanamthitta,Kerala,Hospitalized,"Friends of P35, P36, P37","P35, P36, P37",India,2020-10-03
+49,50.0,KL-PT-P4,2020-10-03,-1.0,Not Available,Kozhencherry,Pathanamthitta,Kerala,Hospitalized,"Friends of P35, P36, P37","P35, P36, P37",India,2020-10-03
+50,51.0,KA-P2,2020-10-03,40.0,Male,Bengaluru,Bengaluru,Karnataka,Recovered,"Travelled from US on Feb 28, Dell Employee",Not Available,India,2020-03-24
+51,52.0,KA-P3,2020-10-03,-1.0,Female,Bengaluru,Bengaluru,Karnataka,Recovered,Wife of P51,P51,India,2020-03-27
+52,53.0,KA-P4,2020-10-03,13.0,Female,Bengaluru,Bengaluru,Karnataka,Recovered,Daughter of P51 and P52,P51,India,2020-03-24
+53,54.0,KL-EL-P1,2020-10-03,-1.0,Male,Kochi,Ernakulam,Kerala,Recovered,Father of P43,P43,India,2020-10-03
+54,55.0,KL-EL-P2,2020-10-03,-1.0,Female,Kochi,Ernakulam,Kerala,Recovered,Mother of P43,P43,India,2020-10-03
+55,56.0,KL-PT-P5,2020-10-03,96.0,Male,Ranni,Pathanamthitta,Kerala,Hospitalized,Father of P36,"P36, P37, P38",India,2020-10-03
+56,57.0,KL-PT-P6,2020-10-03,89.0,Female,Ranni,Pathanamthitta,Kerala,Hospitalized,Mother of P36,"P36, P37, P38",India,2020-10-03
+57,58.0,KL-KT-R1,2020-10-03,-1.0,Male,Chengalam,Kottayam,Kerala,Hospitalized,Daughter of P36 & P37,"P36, P37, P38",India,2020-10-03
+58,59.0,KL-KT-R2,2020-10-03,-1.0,Female,Chengalam,Kottayam,Kerala,Hospitalized,Son in law of P36 & P37,"P36, P37, P38",India,2020-10-03
+59,60.0,Not Available,2020-10-03,3.0,Female,Pune,Pune,Maharashtra,Hospitalized,Daughter of P44 & P45,"P44, P45",India,2020-10-03
+60,61.0,Not Available,2020-10-03,-1.0,Not Available,Pune,Pune,Maharashtra,Hospitalized,Co-passenger with P44 & P45 in cab of P62 from Mumbai airport to Pune,"P44, P45",India,2020-10-03
+61,62.0,Not Available,2020-10-03,-1.0,Male,Pune,Pune,Maharashtra,Hospitalized,"Cab driver who ferried P44, P45, P61 from Mumbai airport to Pune","P44, P45",India,2020-10-03
+62,63.0,Not Available,2020-10-03,85.0,Male,Jaipur,Jaipur,Rajasthan,Recovered,Travelled from Dubai,Not Available,India,2020-10-03
+63,64.0,DL-P5,2020-11-03,46.0,Male,Janakpuri,South West Delhi,Delhi,Hospitalized,"Travelled from Japan, Switzerland and Italy",Not Available,India,2020-11-03
+64,65.0,Not Available,2020-11-03,-1.0,Male,Chuchot,Leh,Ladakh,Hospitalized,Travelled from Iran,Not Available,India,2020-11-03
+65,66.0,Not Available,2020-11-03,70.0,Male,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travelled from Dubai, Co-passengers P44, P45, spouse of P67",Not Available,India,2020-11-03
+66,67.0,Not Available,2020-11-03,68.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travelled from Dubai, Co-passengers P44, P45, spouse of P66",Not Available,India,2020-11-03
+67,68.0,Not Available,2020-11-03,-1.0,Not Available,Pune,Pune,Maharashtra,Hospitalized,"Travelled from Dubai, Co-passengers P44, P45",Not Available,India,2020-11-03
+68,69.0,Not Available,2020-11-03,-1.0,Not Available,Pune,Pune,Maharashtra,Hospitalized,"Travelled from Dubai, Co-passengers P44, P45",Not Available,India,2020-11-03
+69,70.0,Not Available,2020-11-03,-1.0,Not Available,Pune,Pune,Maharashtra,Hospitalized,"Travelled from Dubai, Co-passengers P44, P45",Not Available,India,2020-11-03
+70,71.0,AP-P1,2020-12-03,27.0,Male,Nellore,S.P.S. Nellore,Andhra Pradesh,Hospitalized,Travelled from Italy on March 6th,Not Available,India,2020-12-03
+71,72.0,DL-P6,2020-12-03,69.0,Female,Janakpuri,South West Delhi,Delhi,Deceased,Mother of P64,P64,India,2020-12-03
+72,73.0,KA-P5,2020-12-03,26.0,Male,Bengaluru,Bengaluru,Karnataka,Recovered,"Travelled from Greece to Mumbai on March 6th, Google Employee",Not Available,India,2020-03-20
+73,74.0,KA-P6,2020-12-03,76.0,Male,Kalaburagi,Kalaburagi,Karnataka,Deceased,"Travelled from Saudi on Feb 29, First death in India",Not Available,India,2020-12-03
+74,75.0,KL-KN-2,2020-12-03,-1.0,Not Available,Kannur,Kannur,Kerala,Recovered,"Travelled from Dubai, SG 54",Not Available,India,2020-03-23
+75,76.0,KL-TS-P1,2020-12-03,-1.0,Not Available,Thrissur,Thrissur,Kerala,Recovered,Travelled from Qatar,Not Available,India,2020-03-24
+76,77.0,Not Available,2020-12-03,65.0,Male,Mumbai,Mumbai,Maharashtra,Deceased,"Travelled from Dubai on March 8, Third death in India, , Was hospitalised in Kasturba Hospital",Not Available,India,2020-12-03
+77,78.0,Not Available,2020-12-03,45.0,Male,Nagpur,Nagpur,Maharashtra,Hospitalized,Travelled from US on 6th March,Not Available,India,2020-12-03
+78,79.0,Not Available,2020-12-03,33.0,Male,Pune,Pune,Maharashtra,Hospitalized,Travelled from US on 1st March,Not Available,India,2020-12-03
+79,80.0,Not Available,2020-12-03,33.0,Male,Thane,Thane,Maharashtra,Hospitalized,Travelled from France on March 8,Not Available,India,2020-12-03
+80,81.0,Not Available,2020-12-03,-1.0,Female,Lucknow,Lucknow,Uttar Pradesh,Hospitalized,"Travelled from UK, Canadian Doctor",Not Available,Canada,2020-12-03
+81,82.0,Not Available,2020-12-03,27.0,Male,Ghaziabad,Ghaziabad,Uttar Pradesh,Hospitalized,Son of P30,P30,India,2020-12-03
+82,83.0,DL-P7,2020-03-13,-1.0,Male,Delhi,Delhi,Delhi,Hospitalized,"Travelled from Italy, Restaurant worker, Was evacuated",Not Available,India,2020-03-13
+83,84.0,Not Available,2020-03-13,-1.0,Not Available,Jammu,Not Available,Jammu and Kashmir,Hospitalized,Close contact of P41,P41,India,2020-03-13
+84,85.0,KL-TV-R3,2020-03-13,-1.0,Not Available,Varkala,Thiruvananthapuram,Kerala,Recovered,"Travelled from Italy, Italian national stayed in a resort at Varkala",Not Available,Italy,2020-03-24
+85,86.0,KL-TV-R1,2020-03-13,-1.0,Not Available,Nedumangad,Thiruvananthapuram,Kerala,Hospitalized,"Travelled from Dubai, has visited Italy",Not Available,India,2020-03-13
+86,87.0,KL-TV-R2,2020-03-13,-1.0,Male,Thiruvananthapuram,Thiruvananthapuram,Kerala,Hospitalized,Travelled from London via Bahrain ,Not Available,India,2020-03-13
+87,88.0,Not Available,2020-03-13,-1.0,Female,Nagpur,Nagpur,Maharashtra,Hospitalized,Wife of P78,P78,India,2020-03-13
+88,89.0,Not Available,2020-03-13,-1.0,Male,Nagpur,Nagpur,Maharashtra,Hospitalized,Friend of P78,P78,India,2020-03-13
+89,90.0,Not Available,2020-03-13,-1.0,Not Available,Pune,Pune,Maharashtra,Hospitalized,Travelled from US,Not Available,India,2020-03-13
+90,91.0,Not Available,2020-03-13,-1.0,Female,Agra,Agra,Uttar Pradesh,Hospitalized,Wife of P73,P73,India,2020-03-13
+91,92.0,Not Available,2020-03-14,-1.0,Not Available,Ahmednagar,Ahmednagar,Maharashtra,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-14
+92,93.0,Not Available,2020-03-14,-1.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,Wife of P77,P77,India,2020-03-14
+93,94.0,Not Available,2020-03-14,-1.0,Male,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travelled from Dubai on March 8, son of P77",P77,India,2020-03-14
+94,95.0,Not Available,2020-03-14,37.0,Male,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travelled from US , From Kalyan",Not Available,India,2020-03-14
+95,96.0,Not Available,2020-03-14,59.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from Philippines and were brought in from the Mumbai Airport,Not Available,India,2020-03-14
+96,97.0,Not Available,2020-03-14,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Have international history and were brought in from the Mumbai Airport,Not Available,India,2020-03-14
+97,98.0,Not Available,2020-03-14,43.0,Male,Nagpur,Nagpur,Maharashtra,Hospitalized,"Travelled from US, travelled along with P78",P78,India,2020-03-14
+98,99.0,Not Available,2020-03-14,-1.0,Female,Pune,Pune,Maharashtra,Hospitalized,First contacts or family members of the group of 40 who came back from Dubai earlier,Not Available,India,2020-03-14
+99,100.0,Not Available,2020-03-14,-1.0,Female,Pune,Pune,Maharashtra,Hospitalized,First contacts or family members of the group of 40 who came back from Dubai earlier,Not Available,India,2020-03-14
+100,101.0,Not Available,2020-03-14,-1.0,Female,Pune,Pune,Maharashtra,Hospitalized,First contacts or family members of the group of 40 who came back from Dubai earlier,Not Available,India,2020-03-14
+101,102.0,Not Available,2020-03-14,-1.0,Male,Pune,Pune,Maharashtra,Hospitalized,First contacts or family members of the group of 40 who came back from Dubai earlier,Not Available,India,2020-03-14
+102,103.0,Not Available,2020-03-14,21.0,Male,Pune,Pune,Maharashtra,Hospitalized,Travelled from Thailand,Not Available,India,2020-03-14
+103,104.0,Not Available,2020-03-14,-1.0,Not Available,Yavatmal,Yavatmal,Maharashtra,Hospitalized,Travelled from Dubai on 1st March,Not Available,India,2020-03-14
+104,105.0,Not Available,2020-03-14,-1.0,Not Available,Yavatmal,Yavatmal,Maharashtra,Hospitalized,Travelled from Dubai on 1st March,Not Available,India,2020-03-14
+105,106.0,Not Available,2020-03-14,24.0,Male,Jaipur,Jaipur,Rajasthan,Hospitalized,Travelled from Spain,Not Available,India,2020-03-14
+106,107.0,TS-P2,2020-03-14,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from Italy,Not Available,India,2020-03-14
+107,108.0,KL-ID-1,2020-03-15,-1.0,Male,Munnar,Idukki,Kerala,Hospitalized,"Travelled from Dubai, British citizen who had resided in Munnar resort",Not Available,United Kingdom,2020-03-15
+108,109.0,KL-TV-R4,2020-03-15,-1.0,Male,Thiruvananthapuram,Thiruvananthapuram,Kerala,Hospitalized,"Travelled from Spain, Doctor",Not Available,India,2020-03-15
+109,110.0,Not Available,2020-03-15,59.0,Female,Aurangabad,Aurangabad,Maharashtra,Hospitalized,Travelled from Russia and Kazakhstan,Not Available,India,2020-03-15
+110,111.0,Not Available,2020-03-15,-1.0,Male,Pimpri-Chinchwad,Pimpri-Chinchwad,Maharashtra,Hospitalized,Travelled from Japan and Dubai before his return on March 3,Not Available,India,2020-03-15
+111,112.0,Not Available,2020-03-15,46.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from Netherlands March 9,Not Available,India,2020-03-15
+112,113.0,Not Available,2020-03-15,-1.0,Male,Dehradun,Dehradun,Uttarakhand,Hospitalized,"Travelled from Spain, Italy and Russia March 11",Not Available,India,2020-03-15
+113,114.0,Not Available,2020-03-16,-1.0,Not Available,Rajouri,Jammu,Jammu and Kashmir,Hospitalized,Travelled from Saudi,Not Available,India,2020-03-16
+114,115.0,KA-P8,2020-03-16,32.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Travelled from US via London on March 8, Co Passenger of P82",Not Available,India,2020-03-16
+115,116.0,KA-P7,2020-03-16,45.0,Female,Kalaburagi,Kalaburagi,Karnataka,Hospitalized,Daughter of P74,P74,India,2020-03-16
+116,117.0,KL-KS-P2,2020-03-16,-1.0,Not Available,Kalanadu,Kasaragod,Kerala,Hospitalized,Travelled from Middle East,Not Available,India,2020-03-16
+117,118.0,KL-MLP-1,2020-03-16,-1.0,Female,Malappuram,Malappuram,Kerala,Hospitalized,Travelled from Middle East,Not Available,India,2020-03-16
+118,119.0,KL-MLP-2,2020-03-16,-1.0,Female,Malappuram,Malappuram,Kerala,Hospitalized,Travelled from Middle East,Not Available,India,2020-03-16
+119,120.0,Not Available,2020-03-16,47.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travelled from Philippines,  Came to Navi Mumbai",Not Available,Phillipines,2020-03-16
+120,121.0,Not Available,2020-03-16,42.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travelled from Philippines,  Came to Navi Mumbai",Not Available,Phillipines,2020-03-16
+121,122.0,Not Available,2020-03-16,33.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,"Spouse of P95, From Kalyan",P95,India,2020-03-16
+122,123.0,Not Available,2020-03-16,3.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,"3 year old from Kalyan, Father P95 /Mother P122",P95,India,2020-03-16
+123,124.0,Not Available,2020-03-16,44.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from to Lisbon in Portugal,Not Available,India,2020-03-16
+124,125.0,Not Available,2020-03-16,51.0,Female,Yavatmal,Yavatmal,Maharashtra,Hospitalized,Travelled from Dubai on March 1,Not Available,India,2020-03-16
+125,126.0,Not Available,2020-03-16,31.0,Male,Bhubaneswar,Khordha,Odisha,Hospitalized,Travelled from Italy,Not Available,India,2020-03-27
+126,127.0,TS-P3,2020-03-16,-1.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from Scotland,Not Available,India,2020-03-16
+127,128.0,DL-P11,2020-03-17,-1.0,Not Available,Delhi,Delhi,Delhi,Hospitalized,"Travelled from Italy, 2nd evacuee from Italy in ITBP Chhawla Camp",Not Available,India,2020-03-17
+128,129.0,DL-P12,2020-03-17,-1.0,Not Available,Delhi,Delhi,Delhi,Hospitalized,"Travelled from Italy, 3rd evacuee from Italy in ITBP Chhawla Camp",Not Available,India,2020-03-17
+129,130.0,DL-P8,2020-03-17,-1.0,Not Available,Saket,South Delhi,Delhi,Migrated,Travelled from Singapore (Feb) and Canada (Mar),Not Available,India,2020-03-20
+130,131.0,Not Available,2020-03-17,29.0,Female,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from Malaysia,Not Available,India,2020-03-17
+131,132.0,Not Available,2020-03-17,-1.0,Female,Kargil,Kargil,Ladakh,Hospitalized,Travelled from Iran,Not Available,India,2020-03-17
+132,133.0,Not Available,2020-03-17,-1.0,Not Available,Leh,Leh,Ladakh,Hospitalized,no notest,Not Available,India,2020-03-17
+133,134.0,Not Available,2020-03-17,-1.0,Not Available,Leh,Leh,Ladakh,Hospitalized,no notest,Not Available,India,2020-03-17
+134,135.0,KA-P10,2020-03-17,20.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from UK,Not Available,India,2020-03-17
+135,136.0,KA-P11,2020-03-17,67.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-17
+136,137.0,KA-P9,2020-03-17,63.0,Male,Kalaburagi,Kalaburagi,Karnataka,Hospitalized,Doctor of P74,P74,India,2020-03-17
+137,138.0,Not Available,2020-03-17,49.0,Male,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from US on March 7,Not Available,India,2020-03-17
+138,139.0,Not Available,2020-03-17,26.0,Male,Pune,Pune,Maharashtra,Hospitalized,Travelled from US on March 14,Not Available,India,2020-03-17
+139,140.0,Not Available,2020-03-17,68.0,Female,Mahe,Mahe,Puducherry,Hospitalized,Travelled from UAE,Not Available,India,2020-03-17
+140,141.0,TS-P5,2020-03-17,52.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,"Indonesian national; The patient had flown into Delhi on March 9 and after a few days took a train to Karimnagar, about 170 km from Hyderabad, for a religious meeting with a group from Indonesia and Malaysia.",Not Available,Indonesia,2020-03-17
+141,142.0,Not Available,2020-03-17,-1.0,Male,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Sector 78; Contracted from his boss,P64,India,2020-03-17
+142,143.0,Not Available,2020-03-17,21.0,Female,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,"Travelled from France, Sector 100; ",Not Available,India,2020-03-17
+143,144.0,Not Available,2020-03-17,18.0,Male,Kolkata,Kolkata,West Bengal,Hospitalized,Travelled from United Kingdom (quarantined),Not Available,India,2020-03-17
+144,145.0,Not Available,2020-03-17,34.0,Male,Leh,Leh,Ladakh,Hospitalized,Indian Army jawan,P146,India,2020-03-17
+145,146.0,Not Available,2020-03-17,-1.0,Male,Leh,Leh,Ladakh,Hospitalized,"Travelled from Iran, Father of P145, ",Not Available,India,2020-03-17
+146,147.0,Not Available,2020-03-18,28.0,Female,Pune,Pune,Maharashtra,Hospitalized,"Travelled from France & Netherlands, Kasaba Peth Woman,Retuned to India on March 15th",Not Available,India,2020-03-18
+147,148.0,Not Available,2020-03-18,25.0,Male,Lucknow,Lucknow,Uttar Pradesh,Hospitalized,KGMU Doctor treating infected patients,P81,India,2020-03-18
+148,149.0,TS-P6,2020-03-18,22.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,"Studying BBA at Scotland, Travelled from UK",Not Available,India,2020-03-18
+149,150.0,KA-P13,2020-03-18,56.0,Female,Bengaluru ,Bengaluru,Karnataka,Hospitalized,Travelled from US,Not Available,India,2020-03-18
+150,151.0,KA-P12,2020-03-18,25.0,Male,Bengaluru ,Bengaluru,Karnataka,Hospitalized,Travelled from Spain AI136,Not Available,India,2020-03-18
+151,152.0,Not Available,2020-03-18,-1.0,Not Available,Gautam Buddh Nagar,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Travelled from Indonesia,Not Available,India,2020-03-18
+152,153.0,Not Available,2020-03-18,44.0,Male,Gurugram,Gurugram,Haryana,Hospitalized,Travelled from UK,Not Available,India,2020-03-18
+153,154.0,TN-P2,2020-03-18,20.0,Male,Chennai,Chennai,Tamil Nadu,Hospitalized,Reached Chennai MGR Central from Delhi via Train on 12.03.2020,Not Available,India,2020-03-18
+154,155.0,Not Available,2020-03-18,68.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,"Residing at N Ward,Close contact of P138",P138,India,2020-03-18
+155,156.0,KA-P14,2020-03-18,35.0,Male,Bengaluru ,Bengaluru,Karnataka,Hospitalized,Travelled from the US,Not Available,India,2020-03-18
+156,157.0,Not Available,2020-03-18,21.0,Male,Pimpri-Chinchwad,Pimpri-Chinchwad,Maharashtra,Hospitalized,"Travelled from Philippines, Singapore and Sri Lanka",Not Available,India,2020-03-18
+157,158.0,MH-P45,2020-03-18,50.0,Not Available,Shrungartali,Ratnagiri,Maharashtra,Hospitalized,Travelled from Dubai.,Not Available,India,2020-03-18
+158,159.0,Not Available,2020-03-18,67.0,Female,Khanyar,Srinagar,Jammu and Kashmir,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-18
+159,160.0,Not Available,2020-03-18,33.0,Male,Jhunjhunu,Jhunjhunu,Rajasthan,Hospitalized,Travelled from Italy on March 8,Not Available,India,2020-03-18
+160,161.0,Not Available,2020-03-18,30.0,Female,Jhunjhunu,Jhunjhunu,Rajasthan,Hospitalized,Travelled from Italy on March 8,P160,India,2020-03-18
+161,162.0,Not Available,2020-03-18,3.0,Female,Jhunjhunu,Jhunjhunu,Rajasthan,Hospitalized,Travelled from Italy on March 8,P160,India,2020-03-18
+162,163.0,TS-P7,2020-03-18,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Indonesian,P141,Indonesia,2020-03-18
+163,164.0,TS-P8,2020-03-18,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Indonesian,P141,Indonesia,2020-03-18
+164,165.0,TS-P9,2020-03-18,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Indonesian,P141,Indonesia,2020-03-18
+165,166.0,TS-P10,2020-03-18,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Indonesian,P141,Indonesia,2020-03-18
+166,167.0,TS-P11,2020-03-18,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Indonesian,P141,Indonesia,2020-03-18
+167,168.0,TS-P12,2020-03-18,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Indonesian,P141,Indonesia,2020-03-18
+168,169.0,TS-P13,2020-03-18,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Indonesian,P141,Indonesia,2020-03-18
+169,170.0,Not Available,2020-03-18,-1.0,Female,Gurugram,Gurugram,Haryana,Hospitalized,Wife of P153,P153,India,2020-03-18
+170,171.0,DL-P10,2020-03-18,38.0,Female,Dilshad Garden,North East Delhi,Delhi,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-18
+171,172.0,Not Available,2020-03-19,23.0,Female,Chandigarh,Chandigarh,Chandigarh,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+172,173.0,Not Available,2020-03-19,22.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+173,174.0,Not Available,2020-03-19,49.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-19
+174,175.0,KA-P15,2020-03-19,35.0,Male,Kodagu,Kodagu,Karnataka,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-19
+175,176.0,AP-P2,2020-03-19,24.0,Male,Ongole,Prakasam,Andhra Pradesh,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+176,177.0,Not Available,2020-03-19,24.0,Female,Raipur,Raipur,Chhattisgarh,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+177,178.0,Not Available,2020-03-19,-1.0,Male,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Travelled from Japan. HCL Emp,Not Available,India,2020-03-19
+178,179.0,Not Available,2020-03-19,-1.0,Not Available,Lucknow,Lucknow,Uttar Pradesh,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+179,180.0,Not Available,2020-03-19,-1.0,Not Available,Lakhimpur kheri,Lucknow,Uttar Pradesh,Hospitalized,Travelled from Turkey,Not Available,India,2020-03-19
+180,181.0,TN-P3,2020-03-19,21.0,Male,Chennai,Chennai,Tamil Nadu,Recovered,"Travelled from Dublin, Ireland on 17/3",Not Available,India,2020-03-28
+181,182.0,PJ-P2,2020-03-19,70.0,Male,Banga,Shaheed Bhagat Singh Nagar,Punjab,Deceased,Travelled from Germany via Italy,Not Available,India,2020-03-19
+182,183.0,KL-KS-P3,2020-03-19,47.0,Male,Eriyal,Kasaragod,Kerala,Hospitalized,Travelled from Dubai via Kozhikode Air India Express IX 344,Not Available,India,2020-03-19
+183,184.0,Not Available,2020-03-19,32.0,Male,Rajkot,Rajkot,Gujarat,Hospitalized,"Travelled from Mecca, Saudi Arabia",Not Available,India,2020-03-19
+184,185.0,Not Available,2020-03-19,21.0,Female,Surat,Surat,Gujarat,Hospitalized,"Travelled from London, UK via Mumbai",Not Available,India,2020-03-19
+185,186.0,Not Available,2020-03-19,-1.0,Not Available,Pimpri-Chinchwad,Pimpri-Chinchwad,Maharashtra,Hospitalized,no notest,Not Available,India,2020-03-19
+186,187.0,MH-P48,2020-03-19,51.0,Male,Ahmednagar,Ahmednagar,Maharashtra,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-19
+187,188.0,Not Available,2020-03-19,-1.0,Not Available,Dehradun,Dehradun,Uttarakhand,Recovered,Travelled from Spain; Indira Gandhi National Forest Academy Trainee,Not Available,India,2020-03-19
+188,189.0,Not Available,2020-03-19,-1.0,Not Available,Dehradun,Dehradun,Uttarakhand,Hospitalized,Travelled from Spain; Indira Gandhi National Forest Academy Trainee,Not Available,India,2020-03-19
+189,190.0,TS-P15,2020-03-19,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from UK on 10th Mar,Not Available,India,2020-03-19
+190,191.0,TS-P14,2020-03-19,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from Dubai on 14 Mar,Not Available,India,2020-03-19
+191,192.0,TS-P16,2020-03-19,-1.0,Not Available,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+192,193.0,Not Available,2020-03-19,19.0,Male,Bhubaneswar,Khordha,Odisha,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+193,194.0,Not Available,2020-03-19,-1.0,Male,Jaipur,Jaipur,Rajasthan,Hospitalized,Travelled from Spain via Dubai - New Delhi on 18 Mar; Husband of P195,Not Available,India,2020-03-19
+194,195.0,Not Available,2020-03-19,-1.0,Female,Jaipur,Jaipur,Rajasthan,Hospitalized,Travelled from Spain via Dubai - New Delhi on 18 Mar; Wife of P194,Not Available,India,2020-03-19
+195,196.0,AP-P3,2020-03-19,65.0,Male,Visakapatnam,Visakhapatnam,Andhra Pradesh,Hospitalized,Travelled from Saudi Arabia on 12 Mar,Not Available,India,2020-03-19
+196,197.0,Not Available,2020-03-19,22.0,Female,Rana Pratap Bagh,North Delhi,Delhi,Hospitalized,Travelled from London,Not Available,India,2020-03-19
+197,198.0,DL-P13,2020-03-19,22.0,Male,Ashok Vihar,North West Delhi,Delhi,Hospitalized,Travelled from UK,Not Available,India,2020-03-19
+198,199.0,DL-P14,2020-03-19,32.0,Male,Gautam Puri,Delhi,Delhi,Hospitalized,Travelled from Mexico,Not Available,India,2020-03-19
+199,200.0,Not Available,2020-03-20,22.0,Male,Beleghata,Kolkata,West Bengal,Hospitalized,Travelled to UK,Not Available,India,2020-03-20
+200,201.0,PJ-P3,2020-03-20,69.0,Female,Mohali,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,Travelled from UK,Not Available,India,2020-03-20
+201,202.0,Not Available,2020-03-20,-1.0,Not Available,Chusot,Leh,Ladakh,Hospitalized,Related to SBI employee (Patient ID Unknown),Not Available,India,2020-03-20
+202,203.0,Not Available,2020-03-20,-1.0,Not Available,Chusot,Leh,Ladakh,Hospitalized,Details awaited,Not Available,India,2020-03-20
+203,204.0,Not Available,2020-03-20,-1.0,Male,Jahangirpuri,North West Delhi,Delhi,Hospitalized,Brother of P171,P171,India,2020-03-20
+204,205.0,Not Available,2020-03-20,-1.0,Female,Jahangirpuri,North West Delhi,Delhi,Hospitalized,Mother of P171,P171,India,2020-03-20
+205,206.0,Not Available,2020-03-20,58.0,Male,North Delhi,North Delhi,Delhi,Hospitalized,Travelled from UK,Not Available,India,2020-03-20
+206,207.0,Not Available,2020-03-20,24.0,Male,Pimpri-Chinchwad,Pimpri-Chinchwad,Maharashtra,Hospitalized,Brother of P157,P157,India,2020-03-20
+207,208.0,Not Available,2020-03-20,38.0,Male,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from Turkey,Not Available,India,2020-03-20
+208,209.0,Not Available,2020-03-20,20.0,Male,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from UK,Not Available,India,2020-03-20
+209,210.0,Not Available,2020-03-20,22.0,Female,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Travelled from US,Not Available,India,2020-03-20
+210,211.0,Not Available,2020-03-20,34.0,Female,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Travelled from Finland via Delhi,Not Available,India,2020-03-20
+211,212.0,Not Available,2020-03-20,47.0,Male,Vadodara,Vadodara,Gujarat,Hospitalized,Travelled from Spain via Mumbai,Not Available,India,2020-03-20
+212,213.0,Not Available,2020-03-20,37.0,Male,Lucknow,Lucknow,Uttar Pradesh,Hospitalized,"Relative of P142, junior resident at KGMU",P142,India,2020-03-20
+213,214.0,Not Available,2020-03-20,35.0,Male,Lucknow,Lucknow,Uttar Pradesh,Hospitalized,"Relative of P142, junior resident at KGMU",P142,India,2020-03-20
+214,215.0,Not Available,2020-03-20,20.0,Female,Lucknow,Lucknow,Uttar Pradesh,Hospitalized,"Relative of P142, junior resident at KGMU",P142,India,2020-03-20
+215,216.0,Not Available,2020-03-20,41.0,Female,Lucknow,Lucknow,Uttar Pradesh,Hospitalized,Travelled from UK,Not Available,India,2020-03-20
+216,217.0,Not Available,2020-03-20,-1.0,Not Available,Jaipur,Jaipur,Rajasthan,Hospitalized,"Rangoli Garden, Vaishali Nagar",Not Available,India,2020-03-20
+217,218.0,Not Available,2020-03-20,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,"Doctor, Had a guest who returned from Saudi Arabia",Not Available,India,2020-03-20
+218,219.0,Not Available,2020-03-20,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Doctor,P218,India,2020-03-20
+219,220.0,TS-P17,2020-03-20,18.0,Female,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from London,Not Available,India,2020-03-20
+220,221.0,Not Available,2020-03-20,-1.0,Not Available,Jaipur,Jaipur,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-20
+221,222.0,Not Available,2020-03-20,69.0,Female,Vadodara,Vadodara,Gujarat,Hospitalized,Travelled from Sri Lanka,Not Available,India,2020-03-20
+222,223.0,Not Available,2020-03-20,27.0,Male,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Travelled from UK,Not Available,India,2020-03-20
+223,224.0,Not Available,2020-03-20,-1.0,Female,Chandigarh,Chandigarh,Chandigarh,Hospitalized,Mother of P172,P172,India,2020-03-20
+224,225.0,Not Available,2020-03-20,-1.0,Male,Chandigarh,Chandigarh,Chandigarh,Hospitalized,Brother of P172,P172,India,2020-03-20
+225,226.0,Not Available,2020-03-20,-1.0,Male,Chandigarh,Chandigarh,Chandigarh,Hospitalized,Cook of P172,P172,India,2020-03-20
+226,227.0,Not Available,2020-03-20,26.0,Female,Chandigarh,Chandigarh,Chandigarh,Hospitalized,"Travelled from UK, Sector 19; ",Not Available,India,2020-03-20
+227,228.0,Not Available,2020-03-20,-1.0,Female,Kochi,Ernakulam,Kerala,Hospitalized,Travelled from Dubai. UK Tourist,P108,United Kingdom,2020-03-20
+228,229.0,Not Available,2020-03-20,-1.0,Male,Kochi,Ernakulam,Kerala,Recovered,Travelled from Dubai. UK Tourist,P108,United Kingdom,2020-03-20
+229,230.0,Not Available,2020-03-20,-1.0,Male,Kochi,Ernakulam,Kerala,Recovered,Travelled from Dubai. UK Tourist,P108,United Kingdom,2020-03-20
+230,231.0,Not Available,2020-03-20,-1.0,Male,Kochi,Ernakulam,Kerala,Hospitalized,Travelled from Dubai. UK Tourist,P108,United Kingdom,2020-03-20
+231,232.0,Not Available,2020-03-20,-1.0,Male,Kochi,Ernakulam,Kerala,Hospitalized,Travelled from Dubai. UK Tourist,P108,United Kingdom,2020-03-20
+232,233.0,Not Available,2020-03-20,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Bangar Hospital Doctor,Not Available,India,2020-03-20
+233,234.0,Not Available,2020-03-20,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Bangar Hospital Compounder,Not Available,India,2020-03-20
+234,235.0,Not Available,2020-03-20,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Bangar Hospital Compounder,Not Available,India,2020-03-20
+235,236.0,Not Available,2020-03-20,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Bangar Hospital Compounder,Not Available,India,2020-03-20
+236,237.0,Not Available,2020-03-20,52.0,Female,Faridabad,Faridabad,Haryana,Hospitalized,Travelled from Spain,Not Available,India,2020-03-20
+237,238.0,Not Available,2020-03-20,21.0,Male,Panipat,Panipat,Haryana,Hospitalized,Travelled from UK,Not Available,India,2020-03-20
+238,239.0,Not Available,2020-03-20,52.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,Travelled from Sharjah ,Not Available,India,2020-03-20
+239,240.0,Not Available,2020-03-20,27.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,Travelled from Dubai via Mangalore,Not Available,India,2020-03-20
+240,241.0,Not Available,2020-03-20,-1.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,Travelled in a car with P117,P117,India,2020-03-20
+241,242.0,Not Available,2020-03-20,-1.0,Female,Kasaragod,Kasaragod,Kerala,Hospitalized,Relative of P117,P117,India,2020-03-20
+242,243.0,Not Available,2020-03-20,-1.0,Female,Kasaragod,Kasaragod,Kerala,Hospitalized,Relative of P117,P117,India,2020-03-20
+243,244.0,Not Available,2020-03-20,2.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,Relative of P117,P117,India,2020-03-20
+244,245.0,Not Available,2020-03-20,-1.0,Male,Kochi,Ernakulam,Kerala,Hospitalized,Travelled from UK. Palakkad native,Not Available,India,2020-03-20
+245,246.0,Not Available,2020-03-20,63.0,Female,Kangra,Kangra,Himachal Pradesh,Recovered,Travelled from Dubai,Not Available,India,2020-03-20
+246,247.0,Not Available,2020-03-20,32.0,Male,Kangra,Kangra,Himachal Pradesh,Recovered,Travelled from Singapore,Not Available,India,2020-03-27
+247,248.0,Not Available,2020-03-20,59.0,Male,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,Travelled from Dubai and Thailand(Family),Not Available,India,2020-03-20
+248,249.0,Not Available,2020-03-20,45.0,Female,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,Travelled from Dubai and Thailand(Family),P248,India,2020-03-20
+249,250.0,Not Available,2020-03-20,22.0,Female,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,Travelled from Dubai and Thailand(Family),P248,India,2020-03-20
+250,251.0,Not Available,2020-03-20,24.0,Male,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,Travelled from Germany and Switzerland,Not Available,India,2020-03-20
+251,252.0,TS-P18,2020-03-20,27.0,Male,Karimnagar,Karimnagar,Telangana,Hospitalized,Indonesian citizen,P141,Indonesia,2020-03-20
+252,253.0,TS-P19,2020-03-20,60.0,Male,Karimnagar,Karimnagar,Telangana,Hospitalized,Indonesian citizen,P141,Indonesia,2020-03-20
+253,254.0,Not Available,2020-03-20,32.0,Male,West Delhi,Not Available,Delhi,Hospitalized,Travelled from France,Not Available,India,2020-03-20
+254,255.0,Not Available,2020-03-20,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-20
+255,256.0,Not Available,2020-03-20,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-20
+256,257.0,Not Available,2020-03-20,53.0,Male,Kalyan,Thane,Maharashtra,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-20
+257,258.0,Not Available,2020-03-20,20.0,Male,Pune,Pune,Maharashtra,Hospitalized,Travelled from UK,Not Available,India,2020-03-20
+258,259.0,Not Available,2020-03-21,23.0,Female,Habra,North 24 Parganas,West Bengal,Hospitalized,Travelled from UK via Mumbai,Not Available,India,2020-03-21
+259,260.0,Not Available,2020-03-21,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Staff of Private Hospital,Not Available,India,2020-03-21
+260,261.0,Not Available,2020-03-21,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Staff of Private Hospital,P260,India,2020-03-21
+261,262.0,Not Available,2020-03-21,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Staff of Private Hospital,P260,India,2020-03-21
+262,263.0,Not Available,2020-03-21,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Staff of Private Hospital,P260,India,2020-03-21
+263,264.0,Not Available,2020-03-21,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Staff of Private Hospital,P260,India,2020-03-21
+264,265.0,Not Available,2020-03-21,-1.0,Not Available,Jaipur,Jaipur,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-21
+265,266.0,PJ-P10,2020-03-21,42.0,Male,Mohali,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,Travelled from UK,Not Available,India,2020-03-21
+266,267.0,PJ-P12,2020-03-21,74.0,Female,Mohali,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,Sister of P201,P201,India,2020-03-21
+267,268.0,PJ-P13,2020-03-21,28.0,Female,Mohali,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,"Employee of P172, Accompanied P224 & Driver",P172,India,2020-03-21
+268,269.0,Not Available,2020-03-21,59.0,Male,Vadodara,Vadodara,Gujarat,Hospitalized,"Travelled from Sri Lanka, same group as P222",Not Available,India,2020-03-21
+269,270.0,Not Available,2020-03-21,63.0,Male,Mumbai,Mumbai,Maharashtra,Deceased,"Travelled from UK, had a chronic history of diabetes, high blood pressure, and ischemic heart disease.",Not Available,India,2020-03-22
+270,271.0,Not Available,2020-03-21,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-21
+271,272.0,Not Available,2020-03-21,41.0,Female,Pune,Pune,Maharashtra,Hospitalized,Admitted on Swine Flu suspicion; COVID19 confirmed,Not Available,India,2020-03-21
+272,273.0,Not Available,2020-03-21,-1.0,Not Available,Pune,Pune,Maharashtra,Hospitalized,Travelled from Ireland,Not Available,India,2020-03-21
+273,274.0,Not Available,2020-03-21,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-21
+274,275.0,Not Available,2020-03-21,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-21
+275,276.0,Not Available,2020-03-21,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-21
+276,277.0,Not Available,2020-03-21,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-21
+277,278.0,Not Available,2020-03-21,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Airport Official, Details awaited",Not Available,India,2020-03-21
+278,279.0,Not Available,2020-03-21,24.0,Female,Not Available,Not Available,Delhi,Hospitalized,Daughter of P171,P171,India,2020-03-21
+279,280.0,Not Available,2020-03-21,26.0,Female,Not Available,Not Available,Delhi,Hospitalized,Daughter of P171,P171,India,2020-03-21
+280,281.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited; MoHFW reported 26 on 21 Mar AM,Not Available,India,2020-03-21
+281,282.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited; MoHFW reported 26 on 21 Mar AM,Not Available,India,2020-03-21
+282,283.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited; MoHFW reported 26 on 21 Mar AM,Not Available,India,2020-03-21
+283,284.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited; MoHFW reported 26 on 21 Mar AM,Not Available,India,2020-03-21
+284,285.0,KA-P19,2020-03-21,32.0,Male,Gowribidanur,Chikkaballapura,Karnataka,Hospitalized,"Travelled from Mecca, Saudi Arabia",Not Available,India,2020-03-21
+285,286.0,Not Available,2020-03-21,-1.0,Not Available,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,"Supertech Capetown, Sector 74, NOIDA",Not Available,India,2020-03-21
+286,287.0,Not Available,2020-03-21,38.0,Female,Panchkula,Panchkula,Haryana,Hospitalized,Worked at a beauty salon that Chandigarh’s first coronavirus patient visited,P172,India,2020-03-21
+287,288.0,Not Available,2020-03-21,-1.0,Not Available,Leh,Leh,Ladakh,Hospitalized,Relative of Leh Patient (ID Unknown),Not Available,India,2020-03-21
+288,289.0,Not Available,2020-03-21,-1.0,Not Available,Leh,Leh,Ladakh,Hospitalized,Relative of Leh Patient (ID Unknown),Not Available,India,2020-03-21
+289,290.0,Not Available,2020-03-21,-1.0,Not Available,Sankoo Valley,Kargil,Ladakh,Hospitalized,Relative of P132,P132,India,2020-03-21
+290,291.0,Not Available,2020-03-21,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-21
+291,292.0,Not Available,2020-03-21,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-21
+292,293.0,Not Available,2020-03-21,-1.0,Not Available,Surat,Surat,Gujarat,Hospitalized,"No Travel History, Details awaited",Not Available,India,2020-03-21
+293,294.0,Not Available,2020-03-21,67.0,Male,Surat,Surat,Gujarat,Deceased,Travelled to Delhi & Jaipur,Not Available,India,2020-03-22
+294,295.0,Not Available,2020-03-21,26.0,Male,Gandhinagar,Gandhinagar,Gujarat,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-21
+295,296.0,KA-P16,2020-03-21,53.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,Domestic worker of P137,P137,India,2020-03-21
+296,297.0,KA-P17,2020-03-21,39.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from Netherlands Flight No. KL 1227,Not Available,India,2020-03-21
+297,298.0,Not Available,2020-03-21,19.0,Female,Moradabad,Moradabad,Uttar Pradesh,Hospitalized,Travelled from France,Not Available,India,2020-03-21
+298,299.0,TS-P20,2020-03-21,35.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,Contact of P191,P191,India,2020-03-21
+299,300.0,TS-P21,2020-03-21,33.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,"Travelled from Dubai, Beliseema MSE Cruise Emp; ",Not Available,India,2020-03-21
+300,301.0,TN-P5,2020-03-21,69.0,Male,Perundurai,Erode,Tamil Nadu,Hospitalized,Travelled from Phuket to New Delhi to Erode railway station,Not Available,Thailand,2020-03-21
+301,302.0,TN-P6,2020-03-21,75.0,Male,Perundurai,Erode,Tamil Nadu,Hospitalized,Travelled from Phuket to New Delhi to Erode railway station on 11.03.2020,Not Available,Thailand,2020-03-21
+302,303.0,TN-P4,2020-03-21,65.0,Male,Chennai,Chennai,Tamil Nadu,Hospitalized,"Travelled from New Zealand, Singapore, Chennai airport on 15.03.2020",Not Available,India,2020-03-21
+303,304.0,PJ-P4,2020-03-21,35.0,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Son of P182,P182,India,2020-03-21
+304,305.0,PJ-P5,2020-03-21,34.0,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Son of P182,P182,India,2020-03-21
+305,306.0,PJ-P6,2020-03-21,45.0,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Son of P182,P182,India,2020-03-21
+306,307.0,PJ-P7,2020-03-21,40.0,Female,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Daughter in Law of P182,P182,India,2020-03-21
+307,308.0,PJ-P8,2020-03-21,17.0,Male,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Grand daughter of P182,P182,India,2020-03-21
+308,309.0,PJ-P9,2020-03-21,36.0,Female,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Daughter of P182,P182,India,2020-03-21
+309,310.0,Not Available,2020-03-21,-1.0,Not Available,Yavatmal,Yavatmal,Maharashtra,Hospitalized,Travelled from Congo,Not Available,India,2020-03-21
+310,311.0,PJ-P11,2020-03-21,60.0,Male,Garhshankar,Hoshiarpur,Punjab,Hospitalized,In contact with P182,P182,India,2020-03-21
+311,312.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Sharjah IX 746,Not Available,India,2020-03-21
+312,313.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,"Travelled from Dubai, Air India Express IX 344",Not Available,India,2020-03-21
+313,314.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,"Travelled from Dubai, SG54",Not Available,India,2020-03-21
+314,315.0,Not Available,2020-03-21,54.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,"Landed in Mangalore airport, had been to Kasturba Medical College Attavar",Not Available,India,2020-03-21
+315,316.0,Not Available,2020-03-21,-1.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-21
+316,317.0,Not Available,2020-03-21,-1.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-21
+317,318.0,Not Available,2020-03-21,-1.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-21
+318,319.0,Not Available,2020-03-21,-1.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-21
+319,320.0,Not Available,2020-03-21,-1.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-21
+320,321.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Ernakulam,Kerala,Hospitalized,Details awaited; Travelled from Middle East,Not Available,India,2020-03-21
+321,322.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Ernakulam,Kerala,Hospitalized,Details awaited; Travelled from Middle East,Not Available,India,2020-03-21
+322,323.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Ernakulam,Kerala,Hospitalized,Details awaited; Travelled from Middle East,Not Available,India,2020-03-21
+323,324.0,KA-P18,2020-03-21,21.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from UK,Not Available,India,2020-03-21
+324,325.0,KA-P20,2020-03-21,35.0,Male,Mysuru,Mysuru,Karnataka,Hospitalized,Travelled from Dubai via Bengaluru,Not Available,India,2020-03-21
+325,326.0,Not Available,2020-03-21,23.0,Female,Sonepat,Sonepat,Haryana,Hospitalized,Travelled from UK,Not Available,India,2020-03-21
+326,327.0,WB-P4,2020-03-21,57.0,Male,Dum Dum,Kolkata,West Bengal,Deceased,"No international travel history, has travelled to  Bilaspur by train",Not Available,India,2020-03-23
+327,328.0,Not Available,2020-03-21,-1.0,Not Available,Jaipur,Jaipur,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-21
+328,329.0,Not Available,2020-03-21,59.0,Female,Lakhapt,Kutch,Gujarat,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-21
+329,330.0,AP-P4,2020-03-21,22.0,Male,Rajahmundry,East Godavari,Andhra Pradesh,Hospitalized,Travelled from UK,Not Available,India,2020-03-21
+330,331.0,AP-P5,2020-03-21,24.0,Male,Vijayawada,Krishna,Andhra Pradesh,Hospitalized,Travelled from Paris,Not Available,India,2020-03-21
+331,332.0,Not Available,2020-03-21,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-21
+332,333.0,Not Available,2020-03-21,31.0,Male,Greater Noida,Not Available,Uttar Pradesh,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-21
+333,334.0,Not Available,2020-03-21,30.0,Male,Varanasi,Varanasi,Uttar Pradesh,Hospitalized,Travelled from Dubai on March 17 and went to Varanasi on March 18 in train,Not Available,India,2020-03-21
+334,335.0,Not Available,2020-03-22,-1.0,Male,Chandigarh,Chandigarh,Chandigarh,Hospitalized,"Scondary contact of Chandigarh's first positive case, has tested positive",P172,India,2020-03-22
+335,336.0,KA-P21,2020-03-22,33.0,Male,Hosayellapur,Dharwad,Karnataka,Hospitalized,Travelled from Dubai via Goa,Not Available,India,2020-03-22
+336,337.0,Not Available,2020-03-22,32.0,Male,Mumbai Suburb,Not Available,Maharashtra,Hospitalized,"Travelled from USA, Admitted to Kasturba Hosp.",Not Available,India,2020-03-22
+337,338.0,Not Available,2020-03-22,30.0,Female,Mumbai Suburb,Not Available,Maharashtra,Hospitalized,"Travelled from USA, Admitted to Kasturba Hosp.",Not Available,India,2020-03-22
+338,339.0,Not Available,2020-03-22,21.0,Male,Mumbai Suburb,Not Available,Maharashtra,Hospitalized,"Travelled from Edenburg, South Africa, Admitted to Kasturba Hosp.",Not Available,India,2020-03-22
+339,340.0,Not Available,2020-03-22,60.0,Female,Mumbai Suburb,Not Available,Maharashtra,Hospitalized,"Travelled from Saudi Arabia, Admitted to Kasturba Hosp.",Not Available,India,2020-03-22
+340,341.0,Not Available,2020-03-22,64.0,Female,Mumbai City,Not Available,Maharashtra,Hospitalized,Contact transmission,Not Available,India,2020-03-22
+341,342.0,Not Available,2020-03-22,35.0,Male,Navi Mumbai,Not Available,Maharashtra,Hospitalized,"Travelled from Istanbul, Turkey, Admitted to Kasturba Hosp.",Not Available,India,2020-03-22
+342,343.0,Not Available,2020-03-22,-1.0,Not Available,Pune,Not Available,Maharashtra,Hospitalized,"Contact transmission, details awaited",P272,India,2020-03-22
+343,344.0,Not Available,2020-03-22,-1.0,Not Available,Pune,Not Available,Maharashtra,Hospitalized,"Contact transmission, details awaited",P272,India,2020-03-22
+344,345.0,Not Available,2020-03-22,-1.0,Not Available,Pune,Not Available,Maharashtra,Hospitalized,"Contact transmission, details awaited",P272,India,2020-03-22
+345,346.0,Not Available,2020-03-22,-1.0,Not Available,Pune,Not Available,Maharashtra,Hospitalized,"Contact transmission, details awaited",P272,India,2020-03-22
+346,347.0,TN-P7,2020-03-22,25.0,Female,Coimbatore,Coimbatore,Tamil Nadu,Hospitalized,"Travelled from Spain, Delhi, Bengaluru, Coimbatore on 15-03-2020",Not Available,India,2020-03-22
+347,348.0,Not Available,2020-03-22,38.0,Male,Munger,Munger,Bihar,Deceased,"Travelled from Qatar, Kolkata. He was from Munger. He died yesterday at AIIMS in Patna; had Travelled from Kolkata two days back.Foreign ",Not Available,India,2020-03-22
+348,349.0,Not Available,2020-03-22,-1.0,Female,Patna,Patna,Bihar,Hospitalized,Travelled from UK. Patient has recently ,Not Available,India,2020-03-22
+349,350.0,TS-P22,2020-03-22,24.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,"Travelled from London via Dubai; Resident of Guntur, AP",Not Available,India,2020-03-22
+350,351.0,Not Available,2020-03-22,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-22
+351,352.0,Not Available,2020-03-22,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-22
+352,353.0,Not Available,2020-03-22,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-22
+353,354.0,Not Available,2020-03-22,81.0,Female,Gandhinagar,Gandhinagar,Gujarat,Hospitalized,"Grandmother of P295, Travelled from Dubai",P295,India,2020-03-22
+354,355.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Amritsar,Punjab,Hospitalized,Travelled from UK via Delhi,Not Available,India,2020-03-22
+355,356.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Travelled from Germany via Italy,Not Available,India,2020-03-22
+356,357.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Travelled from Germany via Italy,Not Available,India,2020-03-22
+357,358.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,"Close contact of Patient (Patient Unknown, likely P182)",P182,India,2020-03-22
+358,359.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,"Close contact of Patient (Patient Unknown, likely P182)",P182,India,2020-03-22
+359,360.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,"Close contact of Patient (Patient Unknown, likely P182)",P182,India,2020-03-22
+360,361.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,"Close contact of Patient (Patient Unknown, likely P182)",P182,India,2020-03-22
+361,362.0,Not Available,2020-03-22,26.0,Female,Bhopal,Bhopal,Madhya Pradesh,Hospitalized,Travelled from UK via Delhi (by Shatabdi Express),Not Available,India,2020-03-22
+362,363.0,Not Available,2020-03-22,58.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai AI 938 admitted in Kozhikode  Medical College,Not Available,India,2020-03-22
+363,364.0,Not Available,2020-03-22,27.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Middle East,Not Available,India,2020-03-22
+364,365.0,Not Available,2020-03-22,32.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Middle East,Not Available,India,2020-03-22
+365,366.0,Not Available,2020-03-22,41.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Middle East,Not Available,India,2020-03-22
+366,367.0,Not Available,2020-03-22,33.0,Male,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Middle East,Not Available,India,2020-03-22
+367,368.0,TS-P24,2020-03-22,26.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,"Travelled from Sweden; Resident of Rajolu, AP",Not Available,India,2020-03-22
+368,369.0,TS-P25,2020-03-22,34.0,Male,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from Sweden,Not Available,India,2020-03-22
+369,370.0,TS-P26,2020-03-22,23.0,Male,Kothagudem,Bhadradri Kothagudem,Telangana,Hospitalized,Travelled from London,Not Available,India,2020-03-22
+370,371.0,TS-P23,2020-03-22,23.0,Male,Kukatpally,Hyderabad,Telangana,Hospitalized,Travelled from London via Doha,Not Available,India,2020-03-22
+371,372.0,TS-P27,2020-03-22,50.0,Female,Hyderabad,Hyderabad,Telangana,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-22
+372,373.0,KA-P26,2020-03-22,22.0,Male,Bhatkal,Uttara Kannada,Karnataka,Hospitalized,Travelled from Dubai on Spicejet SG60 (21C) ,Not Available,India,2020-03-22
+373,374.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-22
+374,375.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-22
+375,376.0,Not Available,2020-03-22,32.0,Male,Vengara,Malappuram,Kerala,Hospitalized,Travelled from Abhudhabi via Air India  IX 348 ,Not Available,India,2020-03-22
+376,377.0,Not Available,2020-03-22,24.0,Male,Kadalundi,Malappuram,Kerala,Hospitalized,Travelled from Dubai via Air Arabia G9  425,Not Available,India,2020-03-22
+377,378.0,Not Available,2020-03-22,41.0,Female,Not Available,Kozhikode,Kerala,Hospitalized,"Travelled from Abu Dhabi, EY 250",Not Available,India,2020-03-22
+378,379.0,Not Available,2020-03-22,27.0,Male,Not Available,Kozhikode,Kerala,Hospitalized,"Travelled from Dubai AI 938, Taken to hospital directly from the airport.",Not Available,India,2020-03-22
+379,380.0,Not Available,2020-03-22,61.0,Male,           ,Ernakulam,Kerala,Deceased,Travelled from Dubai,Not Available,India,2020-03-28
+380,381.0,Not Available,2020-03-22,21.0,Female,Not Available,Ernakulam,Kerala,Hospitalized,Travelled from United Kingdom,Not Available,India,2020-03-22
+381,382.0,KA-P22,2020-03-22,64.0,Female,Gowribidanur,Chikkaballapura,Karnataka,Hospitalized,"Travelled from Mecca, Saudi Arabia along with Son(P285), via Hyderabad to Hindupur by train and to Gowribidanur by bus",P285,India,2020-03-22
+382,383.0,KA-P23,2020-03-22,36.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from Switzerland and France,Not Available,India,2020-03-22
+383,384.0,KA-P24,2020-03-22,27.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from Germany,Not Available,India,2020-03-22
+384,385.0,KA-P25,2020-03-22,51.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from London,Not Available,India,2020-03-22
+385,386.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-22
+386,387.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-22
+387,388.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,"Close contact of Patient (Patient Unknown, likely P182)",P182,India,2020-03-22
+388,389.0,Not Available,2020-03-22,37.0,Male,Greater Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Travelled from Denmark,Not Available,India,2020-03-22
+389,390.0,Not Available,2020-03-22,62.0,Female,Greater Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,"Mother of P389, showed symptoms first -- tested on Mar 19",P389,India,2020-03-22
+390,391.0,Not Available,2020-03-22,-1.0,Male,Kolkata,Kolkata,West Bengal,Hospitalized,Father of P200,P200,India,2020-03-22
+391,392.0,Not Available,2020-03-22,-1.0,Female,Kolkata,Kolkata,West Bengal,Hospitalized,Mother of P200,P200,India,2020-03-22
+392,393.0,Not Available,2020-03-22,-1.0,Female,Kolkata,Kolkata,West Bengal,Hospitalized,Domestic worker of P200,P200,India,2020-03-22
+393,394.0,Not Available,2020-03-22,53.0,Male,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,Come in contact with previous case of couple and their teenage daughter,P248,India,2020-03-22
+394,395.0,TN-P9,2020-03-22,64.0,Female,Chennai,Chennai,Tamil Nadu,Hospitalized,Travelled from California via Singapore to Chennai Airport on 20.03.2020,Not Available,India,2020-03-22
+395,396.0,TN-P8,2020-03-22,43.0,Male,Tirunelveli,Tiruneveli,Tamil Nadu,Hospitalized,Travelled from Dubai to Madurai airport on 20.03.2020,Not Available,India,2020-03-22
+396,397.0,AP-P6,2020-03-22,49.0,Female,Visakhapatnam,Visakhapatnam,Andhra Pradesh,Hospitalized,Patient's husband tested positive,P196,India,2020-03-22
+397,398.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Jodhpur,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-22
+398,399.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-22
+399,400.0,Not Available,2020-03-22,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-22
+400,401.0,Not Available,2020-03-22,-1.0,Male,Jhunjhunu,Jhunjhunu,Rajasthan,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-22
+401,402.0,Not Available,2020-03-22,36.0,Male,Shashtri Nagar,Jodhpur,Rajasthan,Hospitalized,"Travelled from Turkey, between Mar 8th-17th",Not Available,India,2020-03-22
+402,403.0,Not Available,2020-03-23,-1.0,Not Available,Pune,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+403,404.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+404,405.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+405,406.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+406,407.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+407,408.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+408,409.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+409,410.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+410,411.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+411,412.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+412,413.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+413,414.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+414,415.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+415,416.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+416,417.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+417,418.0,KA-P27,2020-03-23,46.0,Male,Mysuru,Mysuru,Karnataka,Hospitalized,"Travelled from Dubai via Bengaluru, Resident of Kerala, ",Not Available,India,2020-03-23
+418,419.0,Not Available,2020-03-23,-1.0,Male,Palwal,Palwal,Haryana,Hospitalized,Travelled from Dubai ,Not Available,India,2020-03-23
+419,420.0,Not Available,2020-03-23,45.0,Male,Surat,Surat,Gujarat,Hospitalized,Local transmission,Not Available,India,2020-03-23
+420,421.0,Not Available,2020-03-23,58.0,Male,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-23
+421,422.0,Not Available,2020-03-23,57.0,Female,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-23
+422,423.0,Not Available,2020-03-23,27.0,Female,Vadodara,Vadodara,Gujarat,Hospitalized,Daughter of P269,P269,India,2020-03-23
+423,424.0,Not Available,2020-03-23,29.0,Female,Vadodara,Vadodara,Gujarat,Hospitalized,Daughter in Law of P269,P269,India,2020-03-23
+424,425.0,Not Available,2020-03-23,24.0,Female,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Travelled from Paris,Not Available,India,2020-03-23
+425,426.0,Not Available,2020-03-23,33.0,Male,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Local transmission,Not Available,India,2020-03-23
+426,427.0,Not Available,2020-03-23,49.0,Male,Gandhinagar,Gandhinagar,Gujarat,Hospitalized,Father of P295,P295,India,2020-03-23
+427,428.0,Not Available,2020-03-23,46.0,Female,Vadodara,Vadodara,Gujarat,Hospitalized,"Travelled from Sri Lanka, Wife of P269",P269,India,2020-03-23
+428,429.0,Not Available,2020-03-23,61.0,Male,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Travelled from UK,Not Available,India,2020-03-23
+429,430.0,Not Available,2020-03-23,85.0,Female,Ahmedabad,Ahmedabad,Gujarat,Deceased,Travelled from Saudi Arabia. She was suffering from many complications.,Not Available,India,2020-03-25
+430,431.0,Not Available,2020-03-22,-1.0,Not Available,Delhi,Not Available,Delhi,Hospitalized,Doctor who has treated P171,P171,India,2020-03-22
+431,432.0,Not Available,2020-03-23,-1.0,Not Available,Delhi,Not Available,Delhi,Hospitalized,Details awaited,P171,India,2020-03-23
+432,433.0,Not Available,2020-03-23,-1.0,Not Available,Delhi,Not Available,Delhi,Hospitalized,Details awaited,P171,India,2020-03-23
+433,434.0,TS-P28,2020-03-23,21.0,Male,Balkampet,Hyderabad,Telangana,Hospitalized,Travelled from France,Not Available,India,2020-03-23
+434,435.0,TS-P29,2020-03-23,30.0,Male,Saidabad,Hyderabad,Telangana,Hospitalized,Travelled from London,Not Available,India,2020-03-23
+435,436.0,TS-P30,2020-03-23,23.0,Male,Karimnagar,Karimnagar,Telangana,Hospitalized,"No Travel History, Contact with Indonesian Group",P141,India,2020-03-23
+436,437.0,Not Available,2020-03-23,21.0,Male,Chandigarh,Chandigarh,Chandigarh,Hospitalized,Came in contact with brother of P172,P225,India,2020-03-23
+437,438.0,TS-P31,2020-03-23,20.0,Male,Somajiguda,Hyderabad,Telangana,Hospitalized,Travelled from New York,Not Available,India,2020-03-23
+438,439.0,TS-P32,2020-03-23,25.0,Male,Gachibowli,Hyderabad,Telangana,Hospitalized,Tavelled from London,Not Available,India,2020-03-23
+439,440.0,TS-P33,2020-03-23,56.0,Male,Kukatpally,Hyderabad,Telangana,Hospitalized,Travelled from Sri Lanka,Not Available,India,2020-03-23
+440,441.0,Not Available,2020-03-23,32.0,Male,Vadodara,Vadodara,Gujarat,Hospitalized,Son of P269,P269,India,2020-03-23
+441,442.0,Not Available,2020-03-23,49.0,Male,Not Available,Dehradun,Uttarakhand,Hospitalized,"One more person, who is under observation at Dehradun's Doon Hospita",Not Available,United States of America,2020-03-23
+442,443.0,Not Available,2020-03-23,24.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+443,444.0,Not Available,2020-03-23,30.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+444,445.0,Not Available,2020-03-23,31.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+445,446.0,Not Available,2020-03-23,41.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+446,447.0,Not Available,2020-03-23,34.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+447,448.0,Not Available,2020-03-23,40.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+448,449.0,Not Available,2020-03-23,37.0,Male,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+449,450.0,Not Available,2020-03-23,47.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+450,451.0,Not Available,2020-03-23,34.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+451,452.0,Not Available,2020-03-23,21.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+452,453.0,Not Available,2020-03-23,50.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+453,454.0,Not Available,2020-03-23,32.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+454,455.0,Not Available,2020-03-23,27.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+455,456.0,Not Available,2020-03-23,33.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+456,457.0,Not Available,2020-03-23,32.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+457,458.0,Not Available,2020-03-23,27.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+458,459.0,Not Available,2020-03-23,34.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+459,460.0,Not Available,2020-03-23,52.0,Not Available,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+460,461.0,Not Available,2020-03-23,26.0,Female,Kasaragod,Kasaragod,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+461,462.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+462,463.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+463,464.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+464,465.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+465,466.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+466,467.0,Not Available,2020-03-23,61.0,Female,Not Available,Ernakulam,Kerala,Hospitalized,"Travelled from UK, British tourist among those who visited Munnar, Wife of P229",P108,United Kingdom,2020-03-23
+467,468.0,Not Available,2020-03-23,56.0,Not Available,Kochi,Ernakulam,Kerala,Hospitalized,"Travelled from Dubai, Emirates flight, been in isolation since landed yesterday at Kochi airport",Not Available,India,2020-03-23
+468,469.0,Not Available,2020-03-23,-1.0,Female,Not Available,Thrissur,Kerala,Hospitalized,Travelled from France,Not Available,India,2020-03-23
+469,470.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Pathanamthitta,Kerala,Hospitalized,"Travelled from Qatar, Qatar Airways QR 506",Not Available,India,2020-03-23
+470,471.0,KA-P28,2020-03-23,38.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-23
+471,472.0,KA-P29,2020-03-23,41.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from London,Not Available,India,2020-03-23
+472,473.0,KA-P30,2020-03-23,30.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Wife of P297, KA-P17",P297,India,2020-03-23
+473,474.0,KA-P31,2020-03-23,24.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from UK and Dubai,Not Available,India,2020-03-23
+474,475.0,KA-P32,2020-03-23,60.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travelled from Germany,Not Available,India,2020-03-23
+475,476.0,KA-P33,2020-03-23,22.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Travelled from Dubai, resident of Kannur, Kerala",Not Available,India,2020-03-23
+476,477.0,Not Available,2020-03-23,38.0,Female,Mumbai,Mumbai,Maharashtra,Hospitalized,Travelled from Abu Dhabi ,Not Available,India,2020-03-23
+477,478.0,Not Available,2020-03-23,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-23
+478,479.0,Not Available,2020-03-23,-1.0,Not Available,Thane,Thane,Maharashtra,Hospitalized,"Contact with P 80, Details awaited",Not Available,India,2020-03-23
+479,480.0,Not Available,2020-03-23,-1.0,Male,Sangli,Sangli,Maharashtra,Hospitalized,"Travelled from Saudi Arabia, Details awaited",Not Available,India,2020-03-23
+480,481.0,Not Available,2020-03-23,-1.0,Female,Sangli,Sangli,Maharashtra,Hospitalized,"Travelled from Saudi Arabia, Details awaited",Not Available,India,2020-03-23
+481,482.0,Not Available,2020-03-23,-1.0,Female,Sangli,Sangli,Maharashtra,Hospitalized,"Travelled from Saudi Arabia, Details awaited",Not Available,India,2020-03-23
+482,483.0,Not Available,2020-03-23,-1.0,Female,Sangli,Sangli,Maharashtra,Hospitalized,"Travelled from Saudi Arabia, Details awaited",Not Available,India,2020-03-23
+483,484.0,Not Available,2020-03-23,45.0,Female,Khandala,Satara,Maharashtra,Hospitalized,"Travelled from Dubai, UAE",Not Available,India,2020-03-23
+484,485.0,Not Available,2020-03-23,-1.0,Not Available,Nawabganj,Kanpur,Uttar Pradesh,Hospitalized,Travelled from USA,Not Available,India,2020-03-23
+485,486.0,Not Available,2020-03-23,45.0,Female,Pilibhit,Pilibhit,Uttar Pradesh,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-23
+486,487.0,Not Available,2020-03-23,69.0,Male,Kangra,Kangra,Himachal Pradesh,Deceased,"Tibetan refugee,died at a hospital in Tanda. Travelled from the US on 15.03.2020",Not Available,India,2020-03-23
+487,488.0,Not Available,2020-03-23,2.0,Male,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Grand son of P182,P182,India,2020-03-23
+488,489.0,Not Available,2020-03-23,-1.0,Not Available,Mohali,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,"Close contact of Patient (Patient Unknown, likely P 201, 266, 267 or 268)",Not Available,India,2020-03-23
+489,490.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Jodhpur,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-23
+490,491.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Pratapgarh,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-23
+491,492.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Pratapgarh,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-23
+492,493.0,AP-P7,2020-03-23,25.0,Male,Visakhapatnam,Visakhapatnam,Andhra Pradesh,Hospitalized,"Travelled from Birmingham,UK",Not Available,India,2020-03-23
+493,494.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Gurugram,Haryana,Hospitalized,Details Awaited,Not Available,India,2020-03-23
+494,495.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Gurugram,Haryana,Hospitalized,Details Awaited,Not Available,India,2020-03-23
+495,496.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Gurugram,Haryana,Hospitalized,Details Awaited,Not Available,India,2020-03-23
+496,497.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Gurugram,Haryana,Hospitalized,Details Awaited,Not Available,India,2020-03-23
+497,498.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Gurugram,Haryana,Hospitalized,Details Awaited,Not Available,India,2020-03-23
+498,499.0,Not Available,2020-03-23,-1.0,Not Available,Not Available,Gurugram,Haryana,Hospitalized,Sonipat,Not Available,India,2020-03-23
+499,500.0,TN-P10,2020-03-23,25.0,Male,Chennai,Chennai,Tamil Nadu,Hospitalized,Travelled from London via Bangaloe then to Chennai by Car on 14th March,Not Available,India,2020-03-23
+500,501.0,TN-P11,2020-03-23,48.0,Male,Tiruppur,Tiruppur,Tamil Nadu,Hospitalized,Travelled from London via Coimbatore on 15th March,Not Available,India,2020-03-23
+501,502.0,TN-P12,2020-03-23,54.0,Male,Madurai,Madurai,Tamil Nadu,Deceased,Annanagar at Rajaji Hosp. No mention of travel history. Came in contact with some Thailand nationals who were on tour in the state.,"P301, P302",India,2020-03-25
+502,503.0,Not Available,2020-03-23,24.0,Male,Not Available,Patna,Bihar,Hospitalized,Travelled from Scotland,Not Available,India,2020-03-23
+503,504.0,Not Available,2020-03-23,35.0,Male,Jaunpur,Jaunpur,Uttar Pradesh,Hospitalized,Travelled from Saudi Arabia on 15th Mar; Symptons on 21st Mar,Not Available,India,2020-03-23
+504,505.0,Not Available,2020-03-23,41.0,Male,Kaushambi,Ghaziabad,Uttar Pradesh,Hospitalized,"Doctor, Travelled from France on 13th Mar",Not Available,India,2020-03-23
+505,506.0,Not Available,2020-03-24,23.0,Female,Imphal,Imphal West,Manipur,Hospitalized,Travelled from London,Not Available,India,2020-03-24
+506,507.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+507,508.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+508,509.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+509,510.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Satara,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+510,511.0,Not Available,2020-03-24,-1.0,Not Available,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,"Contact Transmission,Details awaited",Not Available,India,2020-03-23
+511,512.0,KA-P34,2020-03-24,32.0,Male,Mangaluru,Dakshina Kannada,Karnataka,Hospitalized,"Kasaragod Resident; Travelled from Dubai, landed in Mangaluru  Airport on 20th Mar",Not Available,India,2020-03-24
+512,513.0,KA-P35,2020-03-24,40.0,Male,Not Available,Uttara Kannada,Karnataka,Hospitalized,"Travelled from Dubai, landed in Mangaluru  Airport on 21st Mar",Not Available,India,2020-03-24
+513,514.0,KA-P36,2020-03-24,65.0,Male,Bhatkal,Uttara Kannada,Karnataka,Hospitalized,"Travelled from Dubai, Landed in Mumbai (18th Mar)  and Travelled by train to Uttara Kannada",Not Available,India,2020-03-24
+514,515.0,KA-P37,2020-03-24,56.0,Female,Chikkaballapura,Chikkaballapura,Karnataka,Hospitalized,"Travelled from Mecca, Saudi Arabia along with P285 and P382, via Hyderabad (14th Mar) to Hindupur by train and to Gowribidanur by bus",P285,India,2020-03-24
+515,516.0,KL-KZ-P3,2020-03-24,-1.0,Not Available,Not Available,Kozhikode,Kerala,Hospitalized,"Travelled from Dubai, Indigo  6E: 89",Not Available,India,2020-03-24
+516,517.0,KL-KZ-P4,2020-03-24,-1.0,Not Available,Not Available,Kozhikode,Kerala,Hospitalized,"Travelled from Dubai, Air India AI 906 landed at Chennai ",Not Available,India,2020-03-24
+517,518.0,Not Available,2020-03-24,65.0,Male,Surat,Surat,Gujarat,Hospitalized,"Travelled from Saudi Arabia, More details awaited",Not Available,India,2020-03-24
+518,519.0,Not Available,2020-03-24,53.0,Male,Gandhinagar,Gandhinagar,Gujarat,Hospitalized,Uncle of P295,P295,India,2020-03-24
+519,520.0,Not Available,2020-03-24,54.0,Female,Gandhinagar,Gandhinagar,Gujarat,Hospitalized,Aunt of P295,P295,India,2020-03-24
+520,521.0,Not Available,2020-03-24,58.0,Male,Beleghata,Kolkata,West Bengal,Hospitalized,"Travelled from Egypt, Details awaited",Not Available,India,2020-03-24
+521,522.0,TN-P13,2020-03-24,74.0,Male,Porur,Chennai,Tamil Nadu,Hospitalized,Travelled from USA via Singapore on 12th March,Not Available,India,2020-03-24
+522,523.0,TN-P14,2020-03-24,52.0,Female,Purasaivakkam,Chennai,Tamil Nadu,Hospitalized,Travelled from USA via London on 17 March,Not Available,India,2020-03-24
+523,524.0,TN-P15,2020-03-24,25.0,Female,Keelkattalai,Chennai,Tamil Nadu,Hospitalized,Travelled from Switzerland via Delhi on 15th March,Not Available,India,2020-03-24
+524,525.0,TS-P34,2020-03-24,49.0,Male,Kokapet,Ranga Reddy,Telangana,Hospitalized,Travelled from London,Not Available,India,2020-03-24
+525,526.0,TS-P35,2020-03-24,39.0,Female,Chandanagar,Ranga Reddy,Telangana,Hospitalized,Travelled from Germany,Not Available,India,2020-03-24
+526,527.0,TS-P36,2020-03-24,61.0,Female,Begumpet,Hyderabad,Telangana,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-24
+527,528.0,KA-P38,2020-03-24,56.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Contact of P150, KA-P13",P150,India,2020-03-24
+528,529.0,KA-P39,2020-03-24,47.0,Male,Mangaluru,Dakshina Kannada,Karnataka,Hospitalized,"Resident of Kasargod, Kerala. With a Travel History to Dubai and Arrived in Mangaluru by Air India Express flight IX-814 at 5am on Mar 19",Not Available,India,2020-03-24
+529,530.0,Not Available,2020-03-24,55.0,Male,Beleghata,Kolkata,West Bengal,Hospitalized,"Travelled from UK, Details Awaited",Not Available,India,2020-03-24
+530,531.0,Not Available,2020-03-24,65.0,Male,Not Available,Bandipore,Jammu and Kashmir,Deceased,Travel History (attended religious event),Not Available,India,2020-03-24
+531,532.0,Not Available,2020-03-24,57.0,Male,Natipora,Srinagar,Jammu and Kashmir,Hospitalized,Contact Transmission (was in same flight with P 159,P159,India,2020-03-24
+532,533.0,Not Available,2020-03-24,-1.0,Not Available,Phillaur,Jalandhar,Punjab,Hospitalized,Details awaited,P182,India,2020-03-24
+533,534.0,Not Available,2020-03-24,-1.0,Not Available,Phillaur,Jalandhar,Punjab,Hospitalized,Details awaited,P182,India,2020-03-24
+534,535.0,Not Available,2020-03-24,-1.0,Not Available,Phillaur,Jalandhar,Punjab,Hospitalized,Details awaited,P182,India,2020-03-24
+535,536.0,Not Available,2020-03-24,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+536,537.0,Not Available,2020-03-24,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+537,538.0,Not Available,2020-03-24,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+538,539.0,Not Available,2020-03-24,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+539,540.0,Not Available,2020-03-24,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+540,541.0,Not Available,2020-03-24,-1.0,Not Available,Ahmednagar,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-24
+541,542.0,Not Available,2020-03-24,47.0,Female,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,"No travel history, husband has had contact with a colleague from London",Not Available,India,2020-03-24
+542,543.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Not Available,Punjab,Hospitalized,Details awaited,Not Available,India,2020-03-24
+543,544.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Not Available,Punjab,Hospitalized,Details awaited,Not Available,India,2020-03-24
+544,545.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Not Available,Punjab,Hospitalized,Details awaited,Not Available,India,2020-03-24
+545,546.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Thiruvananthapuram,Kerala,Hospitalized,"Details awaited, (foreign travel from UK likely)",Not Available,India,2020-03-24
+546,547.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Palakkad,Kerala,Hospitalized,Travelled from Dubai Air India AI 938,Not Available,India,2020-03-24
+547,548.0,KL-KZ-P5,2020-03-24,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-24
+548,549.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,"Travelled from Sharjah Air Arabia G9 454, Admitted in Kozhikode",Not Available,India,2020-03-24
+549,550.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-24
+550,551.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-24
+551,552.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Malappuram,Kerala,Hospitalized,Travelled from Dubai Emirates EK 0532,Not Available,India,2020-03-24
+552,553.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Alappuzha,Kerala,Hospitalized,Travelled from Qatar to Goa Oman Air WY 662 and from there by train to Alappuzha,Not Available,India,2020-03-24
+553,554.0,Not Available,2020-03-24,57.0,Female,Not Available,Ernakulam,Kerala,Hospitalized,Close relative of  P380,P380,India,2020-03-24
+554,555.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Kottayam,Kerala,Hospitalized,Nurse at Kottayam Medical College,Not Available,India,2020-03-24
+555,556.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Details awaited  (Contact Transmission likely),Not Available,India,2020-03-24
+556,557.0,Not Available,2020-03-24,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-24
+557,558.0,KA-P40,2020-03-24,70.0,Female,Mangaluru,Dakshina Kannada,Karnataka,Hospitalized,"Resident of Kasargod, Kerala. With a Travel History to Saudi Arabia and Arrived in Mangaluru. Date of arrival is not known.",Not Available,India,2020-03-24
+558,559.0,KA-P41,2020-03-24,23.0,Male,Mangaluru,Dakshina Kannada,Karnataka,Hospitalized,"Resident of Kasargod, Kerala. With a Travel History to Dubai and Arrived in Mangaluru by Spicejet Flight SG-60 at 5:30pm on Mar 20",Not Available,India,2020-03-24
+559,560.0,AP-P8,2020-03-24,25.0,Male,Srikalahasti,Chitoor,Andhra Pradesh,Hospitalized,Travelled from London,Not Available,India,2020-03-24
+560,561.0,TN-P16,2020-03-24,65.0,Male,Chennai,Chennai,Tamil Nadu,Hospitalized,Travelled from New Zealand,Not Available,India,2020-03-24
+561,562.0,TN-P17,2020-03-24,55.0,Female,Saidapet,Chennai,Tamil Nadu,Hospitalized,No travel history,Not Available,India,2020-03-24
+562,563.0,TN-P18,2020-03-24,25.0,Male,Chennai,Chennai,Tamil Nadu,Hospitalized,Travelled from London via Bengaluru,Not Available,India,2020-03-24
+563,564.0,TS-P37,2020-03-24,64.0,Female,Manikonda,Hyderabad,Telangana,Hospitalized,Contact with TS-P25,P369,India,2020-03-24
+564,565.0,Not Available,2020-03-24,-1.0,Not Available,Panipat,Panipat,Haryana,Hospitalized,Details awaited,Not Available,India,2020-03-24
+565,566.0,Not Available,2020-03-24,-1.0,Not Available,Faridabad,Faridabad,Haryana,Hospitalized,Details awaited,Not Available,India,2020-03-24
+566,567.0,Not Available,2020-03-24,-1.0,Female,Gandhinagar,Gandhinagar,Gujarat,Hospitalized,Wife of P295,P295,India,2020-03-24
+567,568.0,Not Available,2020-03-24,36.0,Male,Rajkot,Rajkot,Gujarat,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-24
+568,569.0,Not Available,2020-03-24,75.0,Female,Rajkot,Rajkot,Gujarat,Hospitalized,Travelled from Saudi Arabia,Not Available,India,2020-03-24
+569,570.0,TS-P38,2020-03-24,57.0,Male,Not Available,Bhadradri Kothagudem,Telangana,Hospitalized,Contact with TS-P26,P370,India,2020-03-25
+570,571.0,TS-P39,2020-03-24,-1.0,Female,Not Available,Bhadradri Kothagudem,Telangana,Hospitalized,Contact with TS-P26,P370,India,2020-03-25
+571,572.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Patna,Bihar,Hospitalized,Details awaited,Not Available,India,2020-03-25
+572,573.0,Not Available,2020-03-25,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,"Details awaited, (family)",Not Available,India,2020-03-25
+573,574.0,Not Available,2020-03-25,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,"Details awaited, (family)",P573,India,2020-03-25
+574,575.0,Not Available,2020-03-25,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,"Details awaited, (family)",P573,India,2020-03-25
+575,576.0,Not Available,2020-03-25,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,Travelled from Rishikesh,Not Available,India,2020-03-25
+576,577.0,Not Available,2020-03-25,65.0,Female,Ujjain,Ujjain,Madhya Pradesh,Deceased,Details awaited,Not Available,India,2020-03-25
+577,578.0,Not Available,2020-03-25,-1.0,Not Available,Sangli,Sangli,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+578,579.0,Not Available,2020-03-25,-1.0,Not Available,Sangli,Sangli,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+579,580.0,Not Available,2020-03-25,-1.0,Not Available,Sangli,Sangli,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+580,581.0,Not Available,2020-03-25,-1.0,Not Available,Sangli,Sangli,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+581,582.0,Not Available,2020-03-25,-1.0,Not Available,Sangli,Sangli,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+582,583.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-25
+583,584.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-25
+584,585.0,Not Available,2020-03-25,36.0,Male,Not Available,Gwalior,Madhya Pradesh,Hospitalized,Native of Allahabad,Not Available,India,2020-03-24
+585,586.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Bhopal,Madhya Pradesh,Hospitalized,"Father of P362, Journalist ",P362,India,2020-03-25
+586,587.0,Not Available,2020-03-25,50.0,Male,Not Available,Aizawl,Mizoram,Hospitalized,Travelled from Netherlands; Admitted at Zoram Medical College,Not Available,India,2020-03-25
+587,588.0,Not Available,2020-03-25,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Hospital staff,Not Available,India,2020-03-25
+588,589.0,Not Available,2020-03-25,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Hospital staff,Not Available,India,2020-03-25
+589,590.0,Not Available,2020-03-25,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Infected by the Doctor who was tested positive a few days back,Not Available,India,2020-03-25
+590,591.0,Not Available,2020-03-25,-1.0,Female,Jodhpur,Jodhpur,Rajasthan,Hospitalized,Travelled from Mumbai to Jodhpur in same coupe along with two other positive patients,Not Available,India,2020-03-25
+591,592.0,Not Available,2020-03-25,57.0,Male,Navi Mumbai,Not Available,Maharashtra,Hospitalized,"Contact Transmission,Details awaited",Not Available,India,2020-03-25
+592,593.0,Not Available,2020-03-25,27.0,Male,Mumbai City,Not Available,Maharashtra,Hospitalized,Travelled from USA,Not Available,India,2020-03-25
+593,594.0,Not Available,2020-03-25,39.0,Male,Mumbai City,Not Available,Maharashtra,Hospitalized,Travelled from UAE,Not Available,India,2020-03-25
+594,595.0,Not Available,2020-03-25,38.0,Male,Kamothe Raigad,Not Available,Maharashtra,Hospitalized,Travelled from Trinidad,Not Available,India,2020-03-25
+595,596.0,TN-P19,2020-03-25,-1.0,Not Available,Not Available,Salem,Tamil Nadu,Hospitalized,Indonesian Tourist,Not Available,Indonesia,2020-03-25
+596,597.0,TN-P20,2020-03-25,-1.0,Not Available,Not Available,Salem,Tamil Nadu,Hospitalized,Indonesian Tourist,P596,Indonesia,2020-03-25
+597,598.0,TN-P21,2020-03-25,-1.0,Not Available,Not Available,Salem,Tamil Nadu,Hospitalized,Indonesian Tourist,P596,Indonesia,2020-03-25
+598,599.0,TN-P22,2020-03-25,-1.0,Not Available,Not Available,Salem,Tamil Nadu,Hospitalized,Indonesian Tourist,P596,Indonesia,2020-03-25
+599,600.0,TN-P23,2020-03-25,63.0,Male,Not Available,Salem,Tamil Nadu,Hospitalized,Guide to Indonesian Tourist; Resident of Chennai,P596,India,2020-03-25
+600,601.0,KA-P51,2020-03-25,34.0,Male,Udupi,Udupi,Karnataka,Hospitalized,Travelled from Dubai on 18.03.2020,Not Available,India,2020-03-25
+601,602.0,Not Available,2020-03-25,21.0,Female,Not Available,Gurugram,Haryana,Hospitalized,Private Hospital Nurse,Not Available,India,2020-03-25
+602,603.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Shivpuri,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-24
+603,604.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Bandipore,Jammu and Kashmir,Hospitalized,"Close contact of P531, attended religious ceremony",P531,India,2020-03-25
+604,605.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Bandipore,Jammu and Kashmir,Hospitalized,"Close contact of P531, attended religious ceremony",P531,India,2020-03-25
+605,606.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Bandipore,Jammu and Kashmir,Hospitalized,"Close contact of P531, attended religious ceremony",P531,India,2020-03-25
+606,607.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Bandipore,Jammu and Kashmir,Hospitalized,"Close contact of P531, attended religious ceremony",P531,India,2020-03-25
+607,608.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Not Available,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-25
+608,609.0,Not Available,2020-03-25,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+609,610.0,Not Available,2020-03-25,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+610,611.0,Not Available,2020-03-25,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+611,612.0,Not Available,2020-03-25,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+612,613.0,Not Available,2020-03-25,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+613,614.0,Not Available,2020-03-25,-1.0,Not Available,Thane,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-25
+614,615.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Kozhikode,Kerala,Hospitalized,Travelled from Brazil via Dubai  Air India AI 425,Not Available,India,2020-03-25
+615,616.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Palakkad,Kerala,Hospitalized,Travelled from Dubai Air India AI X 344,Not Available,India,2020-03-25
+616,617.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Palakkad,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-25
+617,618.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Pathanamthitta,Kerala,Hospitalized,Travelled from UK,Not Available,India,2020-03-25
+618,619.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Pathanamthitta,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-25
+619,620.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Idukki,Kerala,Hospitalized,Travelled from Dubai SG 18 ,Not Available,India,2020-03-25
+620,621.0,Not Available,2020-03-25,22.0,Male,Not Available,Ernakulam,Kerala,Hospitalized,"Travelled from France via Delhi, Kochi",Not Available,India,2020-03-25
+621,622.0,Not Available,2020-03-25,23.0,Male,Not Available,Ernakulam,Kerala,Hospitalized,"Travelled from France via Delhi, Kochi",Not Available,India,2020-03-25
+622,623.0,Not Available,2020-03-25,37.0,Male,Not Available,Ernakulam,Kerala,Hospitalized,Contact Transmission from P380,P380,India,2020-03-25
+623,624.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Delhi,Delhi,Hospitalized,Travel History Abroad (details awaited),Not Available,India,2020-03-25
+624,625.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Delhi,Delhi,Hospitalized,No Travel History ( details awaited),Not Available,India,2020-03-25
+625,626.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Delhi,Delhi,Hospitalized,No Travel History ( details awaited),Not Available,India,2020-03-25
+626,627.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Delhi,Delhi,Hospitalized,No Travel History ( details awaited),Not Available,India,2020-03-25
+627,628.0,Not Available,2020-03-25,-1.0,Not Available,Not Available,Delhi,Delhi,Hospitalized,No Travel History ( details awaited),Not Available,India,2020-03-25
+628,629.0,KA-P42,2020-03-25,37.0,Female,Chitradurga,Chitradurga,Karnataka,Hospitalized,Travel history to Guyana and arrived in Bangalore via Delhi on Mar 20,Not Available,India,2020-03-25
+629,630.0,KA-P43,2020-03-25,63.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Travel History to Brazil, Argentina and arrived in Bangalore on Mar 19",Not Available,India,2020-03-25
+630,631.0,KA-P44,2020-03-25,59.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Travel History to Brazil, Argentina and arrived in Bangalore on Mar 19. Wife of P630",P630,India,2020-03-25
+631,632.0,KA-P45,2020-03-25,26.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travel History to Spain and arrived in Bangalore via Dubai on Mar 14,Not Available,India,2020-03-25
+632,633.0,KA-P46,2020-03-25,26.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travel History to Spain and arrived in Bangalore via Dubai on Mar 14. Travelled with P632,P632,India,2020-03-25
+633,634.0,KA-P47,2020-03-25,63.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travel History to Athens and London and arrived in Bangalore on Mar 18.,Not Available,India,2020-03-25
+634,635.0,KA-P48,2020-03-25,69.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,Travel History to Athens and London and arrived in Bangalore on Mar 18. Husband of P634,P634,India,2020-03-25
+635,636.0,KA-P49,2020-03-25,9.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Daughter of P297, KA-P17",P297,India,2020-03-25
+636,637.0,KA-P50,2020-03-25,7.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Daughter of P297, KA-P17",P297,India,2020-03-25
+637,638.0,Not Available,2020-03-25,55.0,Female,Ludhiana,Ludhiana,Punjab,Hospitalized,"No Travel History (Husband, Son and 2 servants in isolation)",Not Available,India,2020-03-25
+638,639.0,Not Available,2020-03-25,31.0,Male,Garhshankar,Hoshiarpur,Punjab,Hospitalized,Son of P311,P311,India,2020-03-25
+639,640.0,Not Available,2020-03-25,26.0,Male,Dugadda,Pauri,Uttarakhand,Hospitalized,Travel History to Spain (admitted in Kotdwar),Not Available,India,2020-03-25
+640,641.0,CH-P2,2020-03-25,23.0,Male,Rajnandgaon,Rajnandgaon,Chhattisgarh,Hospitalized,Travel history to Thailand (admitted in Rajnandgaon hospital),Not Available,India,2020-03-25
+641,642.0,CH-P3,2020-03-25,24.0,Female,Raipur,Raipur,Chhattisgarh,Hospitalized,Travel history to UK,Not Available,India,2020-03-25
+642,643.0,Not Available,2020-03-25,-1.0,Male,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited (  husband of P644 ),Not Available,India,2020-03-25
+643,644.0,Not Available,2020-03-25,-1.0,Female,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited ( Wife of P643 ),Not Available,India,2020-03-25
+644,645.0,Not Available,2020-03-25,-1.0,Male,Pilibhit,Pilibhit,Uttar Pradesh,Hospitalized,"No Travel History (Contact Transmission, Details Awaited)",Not Available,India,2020-03-25
+645,646.0,TS-P40,2020-03-25,43.0,Female,Not Available,Hyderabad,Telangana,Hospitalized,Contact with TS-P34,P525,India,2020-03-25
+646,647.0,TS-P41,2020-03-25,3.0,Male,Not Available,Hyderabad,Telangana,Hospitalized,"Travelled from Saudi Arabia, along with his parents",Not Available,India,2020-03-25
+647,648.0,Not Available,2020-03-25,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-25
+648,649.0,Not Available,2020-03-25,-1.0,Not Available,Jhunjhunu,Jhunjhunu,Rajasthan,Hospitalized,Contact Transmission from other patients in jhunjhunu,Not Available,India,2020-03-25
+649,650.0,AP-P9,2020-03-25,22.0,Male,Vijayawada,Krishna,Andhra Pradesh,Hospitalized,"Travelled from Washington, USA to Delhi on 20.03.2020, Delhi to Vijayawada on 22.03.2020. Hospitalised on 23.03.2020",Not Available,India,2020-03-25
+650,651.0,TN-P24,2020-03-25,18.0,Male,Chennai,Chennai,Tamil Nadu,Hospitalized,"Contact of second patient at RGGH (ID Unknown, Possibly P154)",Not Available,India,2020-03-25
+651,652.0,TN-P25,2020-03-25,26.0,Male,Walajapet,Vellore,Tamil Nadu,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-25
+652,653.0,TN-P26,2020-03-25,63.0,Male,Perundurai,Erode,Tamil Nadu,Hospitalized,"Contact of Thai Tourist (ID Unknown, Possibly P301 or P302)",P301,India,2020-03-27
+653,654.0,AP-P10,2020-03-25,52.0,Male,Not Available,Guntur,Andhra Pradesh,Hospitalized,No foreign travel. Attended meeting at Delhi Nizamuddin mosque from 14.03.2020 and returned to Vijayawada by train on 19.03.2020. ,Not Available,India,2020-03-25
+654,655.0,Not Available,2020-03-25,25.0,Male,Goa,North Goa,Goa,Hospitalized,Travel History to Spain,Not Available,India,2020-03-25
+655,656.0,Not Available,2020-03-25,29.0,Male,Goa,North Goa,Goa,Hospitalized,Travel History to Australia,Not Available,India,2020-03-25
+656,657.0,Not Available,2020-03-25,55.0,Male,Goa,North Goa,Goa,Hospitalized,Travel History to US,Not Available,India,2020-03-25
+657,658.0,Not Available,2020-03-26,66.0,Male,Nayabad,Kolkata,West Bengal,Hospitalized,No history of travelling abroad or outside the state.,Not Available,India,2020-03-26
+658,659.0,Not Available,2020-03-26,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+659,660.0,Not Available,2020-03-26,-1.0,Not Available,Thane,Thane,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+660,661.0,Not Available,2020-03-26,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+661,662.0,Not Available,2020-03-26,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+662,663.0,Not Available,2020-03-26,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+663,664.0,Not Available,2020-03-26,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+664,665.0,Not Available,2020-03-26,-1.0,Not Available,Indore,Indore,Madhya Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+665,666.0,Not Available,2020-03-26,-1.0,Not Available,Bilaspur,Bilaspur,Chhattisgarh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+666,667.0,Not Available,2020-03-26,-1.0,Not Available,Raipur,Raipur,Chhattisgarh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+667,668.0,Not Available,2020-03-26,-1.0,Not Available,Bhilai,Durg,Chhattisgarh,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+668,669.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+669,670.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+670,671.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+671,672.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+672,673.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+673,674.0,Not Available,2020-03-26,-1.0,Male,Delhi,Delhi,Delhi,Hospitalized, Mohalla Clinic Doctor (Contact Transmission 800+ contacts quarantined),P-171,India,2020-03-26
+674,675.0,Not Available,2020-03-26,21.0,Female,Noida ,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,(Sec 137) Contact Transmission (Parents found positive 2 days ago),Not Available,India,2020-03-26
+675,676.0,Not Available,2020-03-26,39.0,Male,Noida ,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,(Sec 150) Husband of P677 (Colleague travelled from UK already tested positive ),Not Available,India,2020-03-26
+676,677.0,Not Available,2020-03-26,33.0,Female,Noida ,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,(Sec 150) Wife of P676,Not Available,India,2020-03-26
+677,678.0,Not Available,2020-03-26,32.0,Male,Baghpat,Baghpat,Uttar Pradesh,Hospitalized,Travel History to Dubai,Not Available,India,2020-03-26
+678,679.0,Not Available,2020-03-26,40.0,Female,Not Available,Munger,Bihar,Hospitalized,Relatives of P348,P348,India,2020-03-26
+679,680.0,Not Available,2020-03-26,12.0,Male,Not Available,Munger,Bihar,Hospitalized,Relatives of P348,P348,India,2020-03-26
+680,681.0,AN-P1,2020-03-26,-1.0,Male,Not Available,South Andaman,Andaman and Nicobar Islands,Hospitalized,Travelled from Kolkata on March 24,Not Available,India,2020-03-26
+681,682.0,TS-P42,2020-03-26,49.0,Male,Qutbullapur,Medchal Malkajgiri,Telangana,Hospitalized,Travelled from Delhi,Not Available,India,2020-03-26
+682,683.0,TS-P43,2020-03-26,36.0,Female,Domalguda,Hyderabad,Telangana,Hospitalized,"Doctor, Wife of TS-P44",Not Available,India,2020-03-26
+683,684.0,TS-P44,2020-03-26,41.0,Male,Domalguda,Hyderabad,Telangana,Hospitalized,"Doctor, Husband of TS-P43",P683,India,2020-03-26
+684,685.0,Not Available,2020-03-26,45.0,Male,Jaipur,Jaipur,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+685,686.0,Not Available,2020-03-26,35.0,Male,Jhunjhunu,Jhunjhunu,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+686,687.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Contact of another positive patient,Not Available,India,2020-03-26
+687,688.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Jalandhar,Punjab,Hospitalized,Has a travel history,Not Available,India,2020-03-26
+688,689.0,KA-P52,2020-03-26,35.0,Male,Not Available,Mysuru,Karnataka,Hospitalized,Had been in contact with healthcare professionals. No other contact histroy or travel history,Not Available,India,2020-03-26
+689,690.0,KA-P53,2020-03-26,70.0,Female,Not Available,Chikkaballapura,Karnataka,Deceased,"Travelled from Mecca, Saudi Arabia, details awaited",Not Available,India,2020-03-26
+690,691.0,KA-P54,2020-03-26,64.0,Male,Not Available,Bengaluru,Karnataka,Hospitalized,"Travelled from France, has been to Himachal Pradesh, Puttaparthi. Resident of Andhra Pradesh",Not Available,France,2020-03-26
+691,692.0,KA-P55,2020-03-26,45.0,Male,Not Available,Bengaluru,Karnataka,Hospitalized,Security Guard; Contact transmission from KA-P25,P385,India,2020-03-26
+692,693.0,Not Available,2020-03-26,42.0,Male,Not Available,Not Available,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+693,694.0,Not Available,2020-03-26,21.0,Female,Panipat,Panipat,Haryana,Hospitalized,Nurse in a private hospital of Gurugram,Not Available,India,2020-03-26
+694,695.0,TN-P27,2020-03-26,24.0,Male,Not Available,Tiruchirappalli,Tamil Nadu,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-26
+695,696.0,Not Available,2020-03-26,7.0,Male,Natipora,Srinagar,Jammu and Kashmir,Hospitalized,Siblings (7 years old and 8 months old)- grandchildren of a confirmed case from Srinagar with travel history to Saudi Arabia who had tested positive on 24th,P532,India,2020-03-26
+696,697.0,Not Available,2020-03-26,1.0,Male,Natipora,Srinagar,Jammu and Kashmir,Hospitalized,Siblings (7 years old and 8 months old)- grandchildren of a confirmed case from Srinagar with travel history to Saudi Arabia who had tested positive on 24th,P532,India,2020-03-26
+697,698.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road,Not Available,India,2020-03-26
+698,699.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road,Not Available,India,2020-03-26
+699,700.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road,Not Available,India,2020-03-26
+700,701.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai to Bangalore (Emirates EK 566) and from there by Road,Not Available,India,2020-03-26
+701,702.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai  Air India AI 938 on March 19,Not Available,India,2020-03-26
+702,703.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai  Air India AI 938 on March 17,Not Available,India,2020-03-26
+703,704.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai to Bangalore (Emirates EK 564) and from there by Road,Not Available,India,2020-03-26
+704,705.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai  SG 54,Not Available,India,2020-03-26
+705,706.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai  SG 54,Not Available,India,2020-03-26
+706,707.0,Not Available,2020-03-26,37.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai landed in Bangalore airport from there in a private vehicle,Not Available,India,2020-03-26
+707,708.0,Not Available,2020-03-26,38.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai landed in Bangalore airport from there in a private vehicle,Not Available,India,2020-03-26
+708,709.0,Not Available,2020-03-26,26.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled with P316,P316,India,2020-03-26
+709,710.0,Not Available,2020-03-26,49.0,Male,Not Available,Malappuram,Kerala,Hospitalized,Travelled from Abhudhabi ,Not Available,India,2020-03-26
+710,711.0,Not Available,2020-03-26,39.0,Male,Not Available,Malappuram,Kerala,Hospitalized,Travelled from Dubai to bangalore (Emirates EK 564) and from there to Kozhikode in a goods vehicle,Not Available,India,2020-03-26
+711,712.0,Not Available,2020-03-26,36.0,Male,Not Available,Malappuram,Kerala,Hospitalized,"Travelled from Dubai via Sharjah Air India AI 968, Admitted to Govt. Medial College Thiruvanathapuram ",Not Available,India,2020-03-26
+712,713.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Idukki,Kerala,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+713,714.0,Not Available,2020-03-26,32.0,Male,Not Available,Thrissur,Kerala,Hospitalized,Wife of P469,P469,India,2020-03-26
+714,715.0,Not Available,2020-03-26,21.0,Male,Not Available,Thrissur,Kerala,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+715,716.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Wayanad,Kerala,Hospitalized,Travelled from Abhudhabi EY 254 on 22 March landed at Kozhikode Airport,Not Available,India,2020-03-26
+716,717.0,TN-P28,2020-03-26,24.0,Male,Not Available,Chennai,Tamil Nadu,Hospitalized,Travelled from London,Not Available,India,2020-03-26
+717,718.0,TN-P29,2020-03-26,65.0,Female,Not Available,Chennai,Tamil Nadu,Hospitalized,Grandmother of TN-P28,P717,India,2020-03-26
+718,719.0,Not Available,2020-03-26,20.0,Male,Not Available,Patna,Bihar,Hospitalized,No travel history,Not Available,India,2020-03-26
+719,720.0,AP-P11,2020-03-26,29.0,Male,Vijayawada,Krishna,Andhra Pradesh,Hospitalized,"Travelled from Stockholm to Delhi on 18.03.2020, Delhi to Vijayawada on 19.03.2020",Not Available,India,2020-03-26
+720,721.0,Not Available,2020-03-26,60.0,Male,Bhubaneswar,Khordha,Odisha,Hospitalized,Details Awaited,Not Available,India,2020-03-26
+721,722.0,Not Available,2020-03-26,-1.0,Not Available,Rajouri,Rajouri,Jammu and Kashmir,Hospitalized,Close relative of P531,P531,India,2020-03-26
+722,723.0,TS-P45,2020-03-26,45.0,Male,Secunderabad,Hyderabad,Telangana,Hospitalized,Travelled from Delhi,Not Available,India,2020-03-27
+723,724.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+724,725.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+725,726.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+726,727.0,Not Available,2020-03-26,37.0,Male,Rajkot,Rajkot,Gujarat,Hospitalized,Matched with Gujarat Dashboard and TOI,Not Available,India,2020-03-27
+727,728.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+728,729.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+729,730.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+730,731.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+731,732.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+732,733.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+733,734.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Kolhapur,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+734,735.0,Not Available,2020-03-26,-1.0,Not Available,Not Available,Pune,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+735,736.0,AN-P2,2020-03-27,53.0,Male,Not Available,N&M Andaman,Andaman and Nicobar Islands,Hospitalized,Travelled with P681,P681,India,2020-03-27
+736,737.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Bhilwara,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+737,738.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Bhilwara,Rajasthan,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+738,739.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Siwan,Bihar,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+739,740.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Nalanda,Bihar,Hospitalized,No travel history to any foreign country,Not Available,India,2020-03-27
+740,741.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Nagpur,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+741,742.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Nagpur,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+742,743.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Nagpur,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+743,744.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Nagpur,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+744,745.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Gondiya,Maharashtra,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+745,746.0,AP-P12,2020-03-27,54.0,Male,Not Available,Visakhapatnam,Andhra Pradesh,Hospitalized,Contact of AP-P7,P493,India,2020-03-27
+746,747.0,Not Available,2020-03-27,35.0,Male,Not Available,Indore,Madhya Pradesh,Deceased,Details awaited,Not Available,India,2020-03-27
+747,748.0,TN-P34,2020-03-27,22.0,Male,Not Available,Madurai,Tamil Nadu,Hospitalized,Family member of TN-P12,P502,India,2020-03-27
+748,749.0,TN-P35,2020-03-27,44.0,Female,Not Available,Madurai,Tamil Nadu,Hospitalized,Family member of TN-P12,P502,India,2020-03-27
+749,750.0,TN-P31,2020-03-27,42.0,Male,Not Available,Erode,Tamil Nadu,Hospitalized,Contact with Thai Nationals,P301,India,2020-03-27
+750,751.0,TN-P32,2020-03-27,46.0,Male,Not Available,Erode,Tamil Nadu,Hospitalized,Contact with Thai Nationals,P301,India,2020-03-27
+751,752.0,TN-P33,2020-03-27,23.0,Male,Purasaivakkam,Chennai,Tamil Nadu,Hospitalized,Family member of TN-P14,P523,India,2020-03-27
+752,753.0,TN-P30,2020-03-27,25.0,Female,Ariyalur,Chennai,Tamil Nadu,Hospitalized,No Travel History,Not Available,India,2020-03-27
+753,754.0,KA-P56,2020-03-27,1.0,Male,Bantwal,Dakshina Kannada,Karnataka,Hospitalized,No travel history. Child was taken to Kerala. ,Not Available,India,2020-03-27
+754,755.0,KA-P57,2020-03-27,20.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Travelled from Colombo, arrived on 15.03.2020",Not Available,India,2020-03-27
+755,756.0,KA-P58,2020-03-27,25.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Travelled from London, UK, arrived on 18.03.2020",Not Available,India,2020-03-27
+756,757.0,KA-P59,2020-03-27,35.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,Contact (Domestic Worker) of KA-P25 ,P385,India,2020-03-27
+757,758.0,KA-P60,2020-03-27,60.0,Male,Tumkur,Tumkur,Karnataka,Deceased,History of travel to Delhi,Not Available,India,2020-03-27
+758,759.0,KA-P61,2020-03-27,33.0,Female,Bengaluru,Bengaluru,Karnataka,Hospitalized,Contact (Domestic Worker) of KA-P25 ,P385,India,2020-03-27
+759,760.0,KA-P62,2020-03-27,22.0,Male,Not Available,Uttara Kannada,Karnataka,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+760,761.0,Not Available,2020-03-27,-1.0,Female,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+761,762.0,Not Available,2020-03-27,-1.0,Male,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+762,763.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details Awaited,Not Available,India,2020-03-27
+763,764.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli - Tagging this to one person as of now,Not Available,India,2020-03-27
+764,765.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+765,766.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+766,767.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+767,768.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+768,769.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+769,770.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+770,771.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+771,772.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+772,773.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+773,774.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+774,775.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Related to a previous patient from Sangli,P764,India,2020-03-27
+775,776.0,Not Available,2020-03-27,42.0,Male,Not Available,Ujjain,Madhya Pradesh,Hospitalized,Related to P577,P577,India,2020-03-27
+776,777.0,Not Available,2020-03-27,41.0,Male,Not Available,Indore,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+777,778.0,Not Available,2020-03-27,53.0,Male,Not Available,Indore,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+778,779.0,Not Available,2020-03-27,18.0,Female,Not Available,Indore,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+779,780.0,Not Available,2020-03-27,14.0,Female,Not Available,Indore,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+780,781.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Foreign Travel,Not Available,India,2020-03-27
+781,782.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Foreign Travel,Not Available,India,2020-03-27
+782,783.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Travel history outside J&K as part of religious congregation,Not Available,India,2020-03-27
+783,784.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Travel history outside J&K as part of religious congregation,Not Available,India,2020-03-27
+784,785.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+785,786.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+786,787.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+787,788.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+788,789.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+789,790.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+790,791.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+791,792.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+792,793.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+793,794.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+794,795.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+795,796.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+796,797.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+797,798.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+798,799.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Panipat,Haryana,Hospitalized,Details awaited,Not Available,India,2020-03-27
+799,800.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Contact transmission,Not Available,India,2020-03-27
+800,801.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Contact transmission,Not Available,India,2020-03-27
+801,802.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Shaheed Bhagat Singh Nagar,Punjab,Hospitalized,Contact transmission,Not Available,India,2020-03-27
+802,803.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Sahibzada Ajit Singh Nagar,Punjab,Hospitalized,Contact transmission,Not Available,India,2020-03-27
+803,804.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Jalandhar,Punjab,Hospitalized,Contact transmission,Not Available,India,2020-03-27
+804,805.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai Emirates EK 566 landed at Bengaluru,Not Available,India,2020-03-27
+805,806.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kannur,Kerala,Hospitalized,Travelled from Dubai Ettihad EY 254 landed at Kozhikode,Not Available,India,2020-03-27
+806,807.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Thrissur,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-27
+807,808.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kozhikode,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-27
+808,809.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kollam,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+809,810.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+810,811.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+811,812.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+812,813.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+813,814.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+814,815.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+815,816.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+816,817.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+817,818.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+818,819.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+819,820.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+820,821.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+821,822.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+822,823.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+823,824.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+824,825.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+825,826.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+826,827.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+827,828.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+828,829.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+829,830.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+830,831.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+831,832.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Travelled from Dubai,Not Available,India,2020-03-27
+832,833.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+833,834.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+834,835.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+835,836.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+836,837.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+837,838.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+838,839.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+839,840.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+840,841.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+841,842.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+842,843.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Contact transmission. details awaited,Not Available,India,2020-03-27
+843,844.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Contact Transmission,Not Available,India,2020-03-27
+844,845.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Contact Transmission,Not Available,India,2020-03-27
+845,846.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Contact Transmission,Not Available,India,2020-03-27
+846,847.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Contact Transmission,Not Available,India,2020-03-27
+847,848.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travel history, details awaited",Not Available,India,2020-03-27
+848,849.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travel history, details awaited",Not Available,India,2020-03-27
+849,850.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travel history, details awaited",Not Available,India,2020-03-27
+850,851.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travel history, details awaited",Not Available,India,2020-03-27
+851,852.0,Not Available,2020-03-27,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,"Travel history, details awaited",Not Available,India,2020-03-27
+852,853.0,Not Available,2020-03-27,23.0,Not Available,Not Available,South Andaman,Andaman and Nicobar Islands,Hospitalized,Travelled from Kolkata,P681,India,2020-03-27
+853,854.0,Not Available,2020-03-27,64.0,Not Available,Not Available,South Andaman,Andaman and Nicobar Islands,Hospitalized,Travelled from Kolkata,P681,India,2020-03-27
+854,855.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,South Andaman,Andaman and Nicobar Islands,Hospitalized,Travelled from Kolkata,P681,India,2020-03-27
+855,856.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,South Andaman,Andaman and Nicobar Islands,Hospitalized,Travelled from Kolkata,P681,India,2020-03-27
+856,857.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+857,858.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+858,859.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+859,860.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-27
+860,861.0,KA-P63,2020-03-27,18.0,Male,Davangere,Davanagere,Karnataka,Hospitalized,"Travel history to Paris, France",Not Available,India,2020-03-27
+861,862.0,KA-P64,2020-03-27,21.0,Male,Not Available,Dakshina Kannada,Karnataka,Hospitalized,Travel history to Dubai,Not Available,India,2020-03-27
+862,863.0,Not Available,2020-03-27,11.0,Male,Not Available,Nadia,West Bengal,Hospitalized,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",Not Available,India,2020-03-27
+863,864.0,Not Available,2020-03-27,27.0,Female,Not Available,Nadia,West Bengal,Hospitalized,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",Not Available,India,2020-03-27
+864,865.0,Not Available,2020-03-27,45.0,Female,Not Available,Nadia,West Bengal,Hospitalized,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",Not Available,India,2020-03-27
+865,866.0,Not Available,2020-03-27,6.0,Female,Not Available,Nadia,West Bengal,Hospitalized,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",Not Available,India,2020-03-27
+866,867.0,Not Available,2020-03-27,1.0,Female,Not Available,Nadia,West Bengal,Hospitalized,"Family, History of contact to a positive case in Delhi who came from UK on 16th March",Not Available,India,2020-03-27
+867,868.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-27
+868,869.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-27
+869,870.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-27
+870,871.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-27
+871,872.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-27
+872,873.0,TN-P36,2020-03-27,73.0,Female,Pammal,Chengalpattu,Tamil Nadu,Hospitalized,"Admitted at RGGH, No history of travel",Not Available,India,2020-03-27
+873,874.0,TN-P37,2020-03-27,61.0,Male,Not Available,Salem,Tamil Nadu,Hospitalized,Contact with Indonesian,Not Available,India,2020-03-27
+874,875.0,TN-P38,2020-03-27,39.0,Male,Anna Nagar,Chennai,Tamil Nadu,Hospitalized,"Admitted at KMCH, No history of travel.",Not Available,India,2020-03-27
+875,876.0,AP-P13,2020-03-27,45.0,Female,Not Available,Guntur,Andhra Pradesh,Hospitalized,Contact of AP-P10,P654,India,2020-03-27
+876,877.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited 40th case,Not Available,India,2020-03-27
+877,878.0,Not Available,2020-03-27,22.0,Male,Not Available,Chandigarh,Chandigarh,Hospitalized,Travelled from Dubai. Remained home-quarantined for 14 days but developed fever on the 15th day,Not Available,India,2020-03-27
+878,879.0,Not Available,2020-03-27,50.0,Male,Bhopal,Bhopal,Madhya Pradesh,Hospitalized,"A 50-year-old man, a railway guard, tested positive at the All India Institute of Medical Sciences, Bhopal",Not Available,India,2020-03-27
+879,880.0,Not Available,2020-03-27,-1.0,Male,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,Travelled from Dubai.,Not Available,India,2020-03-27
+880,881.0,Not Available,2020-03-27,-1.0,Male,Jabalpur,Jabalpur,Madhya Pradesh,Hospitalized,Travelled from Dubai.,Not Available,India,2020-03-27
+881,882.0,Not Available,2020-03-27,37.0,Male,Rajkot,Rajkot,Gujarat,Hospitalized,"Travel history, According to the information, infected persons had visited China in January this year.",Not Available,India,2020-03-27
+882,883.0,Not Available,2020-03-27,39.0,Male,Rajkot,Rajkot,Gujarat,Hospitalized,locally transmitted,Not Available,India,2020-03-27
+883,884.0,Not Available,2020-03-27,33.0,Female,Rajkot,Rajkot,Gujarat,Hospitalized,locally transmitted,Not Available,India,2020-03-27
+884,885.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Rajouri,Jammu and Kashmir,Hospitalized,Contact history with P531,P531,India,2020-03-27
+885,886.0,Not Available,2020-03-27,-1.0,Not Available,Not Available,Rajouri,Jammu and Kashmir,Hospitalized,Family member of Someone from 27th March,Not Available,India,2020-03-27
+886,887.0,Not Available,2020-03-28,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+887,888.0,Not Available,2020-03-28,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+888,889.0,Not Available,2020-03-28,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+889,890.0,Not Available,2020-03-28,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+890,891.0,Not Available,2020-03-28,-1.0,Not Available,Mumbai,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+891,892.0,Not Available,2020-03-28,-1.0,Not Available,Nagpur,Nagpur,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+892,893.0,Not Available,2020-03-28,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-28
+893,894.0,Not Available,2020-03-28,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-28
+894,895.0,Not Available,2020-03-28,-1.0,Not Available,Ahmedabad,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-28
+895,896.0,Not Available,2020-03-28,25.0,Male,Gandhinagar,Gandhinagar,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-28
+896,897.0,Not Available,2020-03-28,-1.0,Not Available,Mehsana,Mehsana,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-28
+897,898.0,Not Available,2020-03-28,65.0,Male,Vadodara,Vadodara,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-28
+898,899.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Indore,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+899,900.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Indore,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+900,901.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Shivpuri,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+901,902.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Ujjain,Madhya Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+902,903.0,TN-P39,2020-03-28,42.0,Male,Kumbakonam,Thanjavur,Tamil Nadu,Hospitalized,"Travelled from West Indies, Returned via Middle East",Not Available,India,2020-03-28
+903,904.0,TN-P40,2020-03-28,49.0,Male,Katpadi,Vellore,Tamil Nadu,Hospitalized,"Travelled from United Kingdom, Returned via Middle East",Not Available,India,2020-03-28
+905,906.0,Not Available,2020-03-28,66.0,Male,Vadodara,Vadodara,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-28
+906,907.0,Not Available,2020-03-28,23.0,Male,Ajmer,Ajmer,Rajasthan,Hospitalized,travelled to Punjab,Not Available,India,2020-03-28
+907,908.0,Not Available,2020-03-28,21.0,Female,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-28
+908,909.0,KA-P65,2020-03-28,54.0,Female,Bhatkal,Uttara Kannada,Karnataka,Hospitalized,Wife of KA-P36,P514,India,2020-03-28
+909,910.0,KA-P66,2020-03-28,28.0,Female,Bhatkal,Uttara Kannada,Karnataka,Hospitalized,Daughter of KA-P36,P514,India,2020-03-28
+910,911.0,KA-P67,2020-03-28,23.0,Female,Bhatkal,Uttara Kannada,Karnataka,Hospitalized,Daughter of KA-P36,P514,India,2020-03-28
+911,912.0,KA-P68,2020-03-28,25.0,Male,Bengaluru,Bengaluru,Karnataka,Hospitalized,"Travel history to London, son of KA-P25 arrived on 17.03.2020",P385,India,2020-03-28
+912,913.0,KA-P69,2020-03-28,23.0,Male,Gauribidanur,Chikkaballapura,Karnataka,Hospitalized,Contact of KA-P19,P285,India,2020-03-28
+913,914.0,KA-P70,2020-03-28,70.0,Male,Gauribidanur,Chikkaballapura,Karnataka,Hospitalized,Contact of KA-P19,P285,India,2020-03-28
+914,915.0,KA-P71,2020-03-28,32.0,Female,Gauribidanur,Chikkaballapura,Karnataka,Hospitalized,Contact of KA-P19,P285,India,2020-03-28
+915,916.0,KA-P72,2020-03-28,38.0,Male,Gauribidanur,Chikkaballapura,Karnataka,Hospitalized,Contact of KA-P19,P285,India,2020-03-28
+916,917.0,KA-P73,2020-03-28,18.0,Male,Gauribidanur,Chikkaballapura,Karnataka,Hospitalized,Contact of KA-P19,P285,India,2020-03-28
+917,918.0,KA-P74,2020-03-28,63.0,Female,Not Available,Bengaluru,Karnataka,Hospitalized,Travel history to London,Not Available,India,2020-03-28
+918,919.0,Not Available,2020-03-28,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-28
+919,920.0,Not Available,2020-03-28,-1.0,Not Available,Bhilwara,Bhilwara,Rajasthan,Hospitalized,Details awaited,Not Available,India,2020-03-28
+920,921.0,Not Available,2020-03-28,21.0,Male,Not Available,Pauri,Uttarakhand,Hospitalized,Returned from Dubai on March 18 & reported to hospital on March 26,Not Available,India,2020-03-28
+921,922.0,Not Available,2020-03-28,45.0,Male,Srinagar,Srinagar,Jammu and Kashmir,Hospitalized,Husband of P923 ( Travelled from Mumbai),Not Available,India,2020-03-28
+922,923.0,Not Available,2020-03-28,40.0,Female,Srinagar,Srinagar,Jammu and Kashmir,Hospitalized,Wife of P922 ( Travelled from Mumbai),Not Available,India,2020-03-28
+923,924.0,Not Available,2020-03-28,56.0,Male,Srinagar,Srinagar,Jammu and Kashmir,Hospitalized,Travel History to Indonesia,Not Available,India,2020-03-28
+924,925.0,Not Available,2020-03-28,28.0,Male,Hajin,Bandipora,Jammu and Kashmir,Hospitalized,Contact Transmission P 531,P531,India,2020-03-28
+925,926.0,Not Available,2020-03-28,28.0,Male,Hajin,Bandipora,Jammu and Kashmir,Hospitalized,Contact Transmission P 531,P531,India,2020-03-28
+926,927.0,Not Available,2020-03-28,35.0,Male,Hajin,Bandipora,Jammu and Kashmir,Hospitalized,Contact Transmission P 531,P531,India,2020-03-28
+927,928.0,Not Available,2020-03-28,35.0,Male,Hajin,Bandipora,Jammu and Kashmir,Hospitalized,Contact Transmission P 531,P531,India,2020-03-28
+928,929.0,Not Available,2020-03-28,-1.0,Not Available,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+929,930.0,Not Available,2020-03-28,-1.0,Not Available,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+930,931.0,Not Available,2020-03-28,-1.0,Not Available,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+931,932.0,Not Available,2020-03-28,-1.0,Not Available,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+932,933.0,Not Available,2020-03-28,-1.0,Not Available,Noida,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+933,934.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+934,935.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+935,936.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+936,937.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+937,938.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+938,939.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Thiruvananthapuram,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-28
+939,940.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Thiruvananthapuram,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-28
+940,941.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Palakkad,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-28
+941,942.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Kollam,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-28
+942,943.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Malappuram,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-28
+943,944.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Kasaragod,Kerala,Hospitalized,Details awaited,Not Available,India,2020-03-28
+944,945.0,TN-P41,2020-03-28,60.0,Male,Rajapalayam,Virudhunagar,Tamil Nadu,Hospitalized,No travel history,Not Available,India,2020-03-28
+945,946.0,Not Available,2020-03-28,74.0,Male,Not Available,Not Available,Telangana,Deceased,"Travel history to Delhi, developed pneumonia was tested positive after his death in Global Hospital",Not Available,India,2020-03-28
+946,947.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+947,948.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+948,949.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+949,950.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+950,951.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+951,952.0,Not Available,2020-03-28,21.0,Male,Not Available,Raipur,Chhattisgarh,Hospitalized,Travelled from UK,Not Available,India,2020-03-28
+952,953.0,TN-P42,2020-03-28,25.0,Male,West Mambalam,Chennai,Tamil Nadu,Hospitalized,Travelled from US,Not Available,India,2020-03-28
+953,954.0,KA-P75,2020-03-28,20.0,Male,Davangere,Davanagere,Karnataka,Hospitalized,Cousin of KA-P42,P629,India,2020-03-28
+954,955.0,KA-P76,2020-03-28,24.0,Male,Bhatkal,Uttara Kannada,Karnataka,Hospitalized,Contact transmission  from KA-P35,P513,India,2020-03-28
+955,956.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Andaman and Nicobar Islands,Hospitalized,Details awaited,Not Available,India,2020-03-28
+956,957.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Andaman and Nicobar Islands,Hospitalized,Details awaited,Not Available,India,2020-03-28
+957,958.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Andaman and Nicobar Islands,Hospitalized,Details awaited,Not Available,India,2020-03-28
+958,959.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Jammu and Kashmir,Hospitalized,Matched 28th case with JK Press Release,Not Available,India,2020-03-28
+959,960.0,Not Available,2020-03-28,76.0,Female,Not Available,Paschim Medinipur,West Bengal,Hospitalized,Direct contact with one previously Corona positive case,P658,India,2020-03-28
+960,961.0,Not Available,2020-03-28,56.0,Female,Not Available,Paschim Medinipur,West Bengal,Hospitalized,Direct contact with one previously Corona positive case,P658,India,2020-03-28
+961,962.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Madhya Pradesh,Hospitalized,BSF officer,Not Available,India,2020-03-28
+962,963.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Gujarat,Hospitalized,Match with Guajrat Dashboard,Not Available,India,2020-03-28
+963,964.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Faridabad,Haryana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+964,965.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+965,966.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+966,967.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+967,968.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+968,969.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+969,970.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+970,971.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+971,972.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+972,973.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+973,974.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+974,975.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+975,976.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+976,977.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+977,978.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+978,979.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+979,980.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+980,981.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+981,982.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+982,983.0,Not Available,2020-03-28,50.0,Male,Not Available,Meerut,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+983,984.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Varanasi,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-28
+984,985.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Jammu,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-28
+985,986.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Jammu,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-28
+986,987.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Jammu,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-28
+987,988.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-28
+988,989.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-28
+989,990.0,Not Available,2020-03-28,-1.0,Female,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+990,991.0,Not Available,2020-03-28,-1.0,Male,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+991,992.0,Not Available,2020-03-28,-1.0,Male,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+992,993.0,Not Available,2020-03-28,-1.0,Male,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+993,994.0,Not Available,2020-03-28,-1.0,Male,Not Available,Jalgaon,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-28
+994,995.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+995,996.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+996,997.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+997,998.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+998,999.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+999,1000.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1000,1001.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1001,1002.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1002,1003.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Delhi,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1003,1004.0,AP-P19,2020-03-28,23.0,Male,Kurnool,Kurnool,Andhra Pradesh,Hospitalized,Travelled from Rajasthan,Not Available,India,2020-03-28
+1004,1005.0,AP-P14,2020-03-28,-1.0,Not Available,Not Available,Guntur,Andhra Pradesh,Hospitalized,Contact of AP-P10 who attended a Religious meeting in Delhi,P654,India,2020-03-28
+1005,1006.0,AP-P15,2020-03-28,-1.0,Not Available,Not Available,Guntur,Andhra Pradesh,Hospitalized,Contact of AP-P10 who attended a Religious meeting in Delhi,P654,India,2020-03-28
+1006,1007.0,AP-P16,2020-03-28,60.0,Male,Not Available,Prakasam,Andhra Pradesh,Hospitalized,Travelled from Delhi,Not Available,India,2020-03-28
+1007,1008.0,AP-P17,2020-03-28,50.0,Female,Not Available,Prakasam,Andhra Pradesh,Hospitalized,"Travelled from Ongle, Contact of TS-P16",P1007,India,2020-03-28
+1008,1009.0,AP-P18,2020-03-28,65.0,Male,Not Available,Krishna,Andhra Pradesh,Hospitalized,Travelled from Mecca,Not Available,India,2020-03-28
+1009,1010.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1010,1011.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Telangana,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1011,1012.0,Not Available,2020-03-28,54.0,Female,Not Available,Kalimpong,West Bengal,Hospitalized,Foreign travel,Not Available,India,2020-03-28
+1012,1013.0,Not Available,2020-03-28,-1.0,Not Available,Nanjangud,Mysuru,Karnataka,Hospitalized,"All the patients were contacts of Patient-52 (P-52), a 35-year-old man.",P689,India,2020-03-28
+1013,1014.0,Not Available,2020-03-28,-1.0,Not Available,Nanjangud,Mysuru,Karnataka,Hospitalized,"All the patients were contacts of Patient-52 (P-52), a 35-year-old man.",P689,India,2020-03-28
+1014,1015.0,Not Available,2020-03-28,-1.0,Not Available,Nanjangud,Mysuru,Karnataka,Hospitalized,"All the patients were contacts of Patient-52 (P-52), a 35-year-old man.",P689,India,2020-03-28
+1015,1016.0,Not Available,2020-03-28,-1.0,Not Available,Nanjangud,Mysuru,Karnataka,Hospitalized,"All the patients were contacts of Patient-52 (P-52), a 35-year-old man.",P689,India,2020-03-28
+1016,1017.0,Not Available,2020-03-28,-1.0,Not Available,Yaraganahalli,Mysuru,Karnataka,Hospitalized,"Pharmaceutical industry, All the patients were contacts of Patient-52 (P-52), a 35-year-old man.",P689,India,2020-03-28
+1017,1018.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Meerut,Uttar Pradesh,Hospitalized,Wife of P983,P983,India,2020-03-28
+1018,1019.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Meerut,Uttar Pradesh,Hospitalized,Brother-in-law of P983,P983,India,2020-03-28
+1019,1020.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Meerut,Uttar Pradesh,Hospitalized,Brother-in-law of P983,P983,India,2020-03-28
+1020,1021.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Meerut,Uttar Pradesh,Hospitalized,Brother-in-law of P983,P983,India,2020-03-28
+1021,1022.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Bihar,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1022,1023.0,Not Available,2020-03-28,-1.0,Not Available,Not Available,Not Available,Bihar,Hospitalized,Details awaited,Not Available,India,2020-03-28
+1023,1025.0,Not Available,2020-03-28,21.0,Male,Ambala,Ambala,Haryana,Hospitalized,"resident of Ram Nagar village in Patiala, Punjab, on Ambala-Patiala border. He has recent travel history to Nepal. He was admitted to hospital on March 26",Not Available,India,2020-03-28
+1024,1026.0,Not Available,2020-03-28,40.0,Male,Not Available,Indore,Madhya Pradesh,Hospitalized,contacts of earlier positive cases of #COVID19 & have no travel history,Not Available,India,2020-03-28
+1025,1027.0,Not Available,2020-03-28,48.0,Male,Not Available,Indore,Madhya Pradesh,Hospitalized,contacts of earlier positive cases of #COVID19 & have no travel history,Not Available,India,2020-03-28
+1026,1028.0,Not Available,2020-03-28,21.0,Male,Not Available,Indore,Madhya Pradesh,Hospitalized,contacts of earlier positive cases of #COVID19 & have no travel history,Not Available,India,2020-03-28
+1027,1029.0,Not Available,2020-03-28,38.0,Male,Not Available,Indore,Madhya Pradesh,Hospitalized,contacts of earlier positive cases of #COVID19 & have no travel history,Not Available,India,2020-03-28
+1028,1030.0,Not Available,2020-03-28,17.0,Female,Not Available,Ujjain,Madhya Pradesh,Hospitalized,contacts of earlier positive cases of #COVID19 & have no travel history,Not Available,India,2020-03-28
+1029,1031.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1030,1032.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1031,1033.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1032,1034.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Mumbai,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1033,1035.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Pune,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1034,1036.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Sangli,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1035,1037.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Nagpur,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1036,1038.0,Not Available,2020-03-29,53.0,Female,Not Available,Bhilwara,Rajasthan,Hospitalized,IPD patient at of Bangar Hospital,Not Available,India,2020-03-29
+1037,1039.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1038,1040.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1039,1041.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Ahmedabad,Gujarat,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1040,1042.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1041,1043.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Srinagar,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1042,1044.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Budgam,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1043,1045.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Budgam,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1044,1046.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Baramullab,Jammu and Kashmir,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1045,1047.0,Not Available,2020-03-29,21.0,Male,Not Available,Jhunjhunu,Rajasthan,Hospitalized,Travelled from Philippines,Not Available,India,2020-03-29
+1046,1048.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1047,1049.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1048,1050.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1049,1051.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Gautam Buddha Nagar,Uttar Pradesh,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1050,1052.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1051,1053.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
+1052,1054.0,Not Available,2020-03-29,-1.0,Not Available,Not Available,Not Available,Maharashtra,Hospitalized,Details awaited,Not Available,India,2020-03-29
