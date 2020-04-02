@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-India
+India Dashboard Discription: A 360 degree Analysis of COVID-19 India Data
 =======
 
 # Dashbaord Discription
-\
->>>>>>> c0bd8fb921c55639f57fd394b2bdf0741ba7e175
+
