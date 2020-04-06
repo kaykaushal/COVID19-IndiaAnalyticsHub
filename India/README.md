@@ -16,5 +16,14 @@
 *Purpose* of this dashbaord is to have 360° view of all public available data of covid-19 for india and world.Flexibility to deep dive into timeline, compare with other countries and states of india to see the pattern in outbreak of covid-19 cases to have own prospective about this pandamic and understand the daily changing pattern to take right precaution, decision and staying safe. 
 
 
-### Build your own prospective and Data Analysis Kit to understand this wordwide crisis
+***"The goal is to turn data into information, and information into insight.” – Carly Fiorina***
+
+This dashboard require one time login with typing `covid19` and explre the various dimensions of covid-19 data.
+<p align="left">
+<img src="https://user-images.githubusercontent.com/209966/69501393-b89ffd00-0f04-11ea-8a56-0c799de658a1.png" width="30%">
+</p>!
+
+Username:<kbd>covid19</kbd>
+Password:<kbd>covid19</kbd>
+
 
