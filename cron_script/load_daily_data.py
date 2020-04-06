@@ -59,8 +59,8 @@ def main():
     print('Loading dataset..')
     df = data_process()
     # Create indexs and connection for df to elasticsearch
-    es = Elasticsearch(['https://elasticsearch_host:9200'], 
-                        http_auth=('user', 'password'), timeout = 3000)
+    es = Elasticsearch(['https://a1f9141091724c6d8501f6a56443982e.southeastasia.azure.elastic-cloud.com:9243'], 
+                        http_auth=('elastic', 'sPevZu2SAgMDF2CbEpBSaFIn'), timeout = 3000)
     print("Indexing documents..")                    
     # delete index if exists
     if es.indices.exists('covid19-india'):
