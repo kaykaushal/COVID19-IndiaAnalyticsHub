@@ -18,12 +18,14 @@
 
 ***"The goal is to turn data into information, and information into insight.” – Carly Fiorina***
 
+### Dashbaord User Manual
 This dashboard require one time login with typing `covid19` and explre the various dimensions of covid-19 data.
 <p align="left">
-<img src="https://user-images.githubusercontent.com/209966/69501393-b89ffd00-0f04-11ea-8a56-0c799de658a1.png" width="30%">
-</p>!
+<img src="https://user-images.githubusercontent.com/209966/69501393-b89ffd00-0f04-11ea-8a56-0c799de658a1.png" width="30%", height="20%">
+</p>
 
-Username:<kbd>covid19</kbd>
-Password:<kbd>covid19</kbd>
+Username  | Password
+----------| -------------
+<kbd>covid19</kbd>   |<kbd>covid19</kbd>
 
-
+* [Setup Time Filter](https://www.elastic.co/guide/en/kibana/current/set-time-filter.html)
