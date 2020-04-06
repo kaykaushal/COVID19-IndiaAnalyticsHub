@@ -1,4 +1,5 @@
 # Novel Coronavirus(Covid-19) India Outbreak Monitoring Dashbaord
+![](https://github.com/kaykaushal/COVID19-IndiaAnalyticsHub/blob/master/India/canvas_main_page/main_page.png)
 
 > An intractive dashboard combining various source of covid-19 data capturing various **daily outbreak**, **timeseries cases**, daily [ICMR](https://icmr.nic.in/content/covid-19) sample test, **Age** and **gender** distribution of patients,**transmission** category cruched at state and district level to understand coronavirus outbreak and go beyond from daily descriptive data to exploratory and explantory data analysis.
 
