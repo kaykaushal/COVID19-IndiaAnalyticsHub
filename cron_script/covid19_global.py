@@ -38,8 +38,8 @@ def main():
     final_df = final_df.iloc[:,:-3]
     
     #Elastic Index
-    es = Elasticsearch(['https://a1f9141091724c6d8501f6a56443982e.southeastasia.azure.elastic-cloud.com:9243'], 
-                        http_auth=('elastic', 'sPevZu2SAgMDF2CbEpBSaFIn'), timeout = 3000)
+    es = Elasticsearch(['https://elastic_host:port'], 
+                        http_auth=('user', 'password'), timeout = 3000)
     print("Indexing documents..")                    
     # delete index if exists
     if es.indices.exists('covid19-global'):
