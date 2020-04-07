@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- <a href="https://5509b53e05954b91a5bd9d7680c0dbbe.southeastasia.azure.elastic-cloud.com:9243/app/kibana#/dashboard/01a1b410-764f-11ea-a501-87fe2225e141?_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-30d%2Cto%3Anow))">Dashboard Link</a>.
+Dashboard Link: <a href="https://5509b53e05954b91a5bd9d7680c0dbbe.southeastasia.azure.elastic-cloud.com:9243/app/kibana#/dashboard/01a1b410-764f-11ea-a501-87fe2225e141?_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-30d%2Cto%3Anow))">bit.ly/covid19-analytics</a>.
  </p>
 
 > An intractive dashboard combining various source of covid-19 data capturing **daily outbreak**, **timeseries cases**, daily [ICMR](https://icmr.nic.in/content/covid-19) sample test, **Age** and **gender** distribution of patients,**transmission** category cruched at state and district level to understand coronavirus outbreak and go beyond from daily descriptive data to exploratory and explantory data analysis.
