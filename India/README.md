@@ -31,3 +31,5 @@ Password  | <kbd>covid19</kbd>
 
 
 * [Setup Time Filter](https://www.elastic.co/guide/en/kibana/current/set-time-filter.html)
+* Search :mag:	
+* Filter by control or by clicking any section of visualizatoion(Dynamic Filter) press :back:	to remove filter
