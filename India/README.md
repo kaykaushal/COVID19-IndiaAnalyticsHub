@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
- <a href="bit.ly/covid19-360">Dashboard Link</a>.
+ <a href="https://5509b53e05954b91a5bd9d7680c0dbbe.southeastasia.azure.elastic-cloud.com:9243/app/kibana#/dashboard/01a1b410-764f-11ea-a501-87fe2225e141?_g=(refreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-30d%2Cto%3Anow))">Dashboard Link</a>.
  </p>
 
 > An intractive dashboard combining various source of covid-19 data capturing **daily outbreak**, **timeseries cases**, daily [ICMR](https://icmr.nic.in/content/covid-19) sample test, **Age** and **gender** distribution of patients,**transmission** category cruched at state and district level to understand coronavirus outbreak and go beyond from daily descriptive data to exploratory and explantory data analysis.
@@ -24,8 +24,8 @@ This dashboard require one time login with typing `covid19` and explre the vario
 <img src="https://user-images.githubusercontent.com/209966/69501393-b89ffd00-0f04-11ea-8a56-0c799de658a1.png" width="30%", height="20%">
 </p>
 
-Username  | Password
-----------| -------------
-<kbd>covid19</kbd>   |<kbd>covid19</kbd>
+Username  | <kbd>covid19</kbd> 
+----------| ------------------
+Password  | <kbd>covid19</kbd>
 
 * [Setup Time Filter](https://www.elastic.co/guide/en/kibana/current/set-time-filter.html)
