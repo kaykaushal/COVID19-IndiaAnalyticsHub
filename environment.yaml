@@ -37,4 +37,3 @@ dependencies:
   - jupyter_contrib_nbextensions
   - nbclean
 
-  https://5509b53e05954b91a5bd9d7680c0dbbe.southeastasia.azure.elastic-cloud.com:9243/api/reporting/generate/printablePdf?jobParams=(browserTimezone:America%2FPhoenix,layout:(dimensions:(height:720,width:1280),id:preserve_layout),objectType:'canvas%20workpad',relativeUrls:!(%2Fapp%2Fcanvas%23%2Fexport%2Fworkpad%2Fpdf%2Fworkpad-3e5a4295-d396-41f0-beed-19237d1e6d66%2Fpage%2F1),title:Covid19India)
